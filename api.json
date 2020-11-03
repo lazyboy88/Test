@@ -21,6 +21,64 @@
 		  }
 		  ],
 	  
+	 "slider" : [
+	  
+	      {
+	"title" : "အိပ်ဆေး",
+	"gen" : "movies",
+	"date" : "2019",
+	"cover" : "https://1.bp.blogspot.com/-xpUCwWAKjhQ/XzF0cFLcD9I/AAAAAAAAYuI/tR4FcdcONEsggzDlQ2yeu3bIvs4Bd6yuQCLcBGAsYHQ/s5000/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B8.jpg",
+	"image" : "https://1.bp.blogspot.com/-AYtA5Pjjqm0/XzF0c7zXffI/AAAAAAAAYuM/l9ryx_u_rgwVBsQwOwlNXcs4_AC8oo24wCLcBGAsYHQ/s500/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B81.jpg",
+	"length" : "1hr 43min",
+	"qual" : "720p FullHD",
+	"size" : "952 MB",
+	"video" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
+	"vol" : ""}
+	,
+	{
+	"title" : "သားဗိုက်ကောင်",
+	"gen" : "",movies
+	"date" : "2019",
+	"cover" : "https://1.bp.blogspot.com/-CdN1GEIcEXw/XzF0V_PEsCI/AAAAAAAAYtA/T5ID8v2nreYa_gX5RQAgsqzm4zHLDbhHQCLcBGAsYHQ/s5000/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA.jpg",
+	"image" : "https://1.bp.blogspot.com/-PCKyLHVXvr4/XzF0WNwlitI/AAAAAAAAYtE/1Tw9O2bIH9gjkZnqBhjTK3hZ3qqDWtR8ACLcBGAsYHQ/s500/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA1.jpg",
+	"length" : "2hr 10min",
+	"qual" : "1080p FullHD",
+	"size" : "2.0 GB",
+	"video" : "https://drive.google.com/file/d/18uIYPvwaeQ42s-ncQ3dfinOQ8v6_XZEs/view",
+	"vol" : ""}
+		 ,
+	{
+	"title" : "သာမိုမီတာ",
+	"gen" : "series",
+	"status" : "Complete",
+	"date" : "2019",
+	"qual" : "480p",
+	"cover" : "http://static.pyoneplay.com/static/show/sh_header_1547715293.jpg",
+	"image" : "http://static.pyoneplay.com/static/show/sh_logo_1547715293.jpg",
+	"link" : "https://family-photo-72685.firebaseio.com/KyiMalSeries/allseries/thermometer/",
+	"tag" : "",
+	"vol" : "MRTV-4 တွင်ထုတ်လွင့်ပြသခဲ့ပြီး အောင်မြင်မှုများရခဲ့တဲ့ ဇာတ်လမ်းတွဲတစ်ခုဖြစ်တဲ့ ''သာမိုမီတာ'' ဇာတ်လမ်းတွဲကို ပြန်လည်ကြည့်ရှုလိုသူများ နှင့် အမှတ်တရသိမ်းထားလိုသူများအတွက် ပြန်လည်တင်ဆက်ပေးလိုက်ပါတယ်။ အားလုံးပဲ ရှုစားအားပေးကြပါ အုံး.....
+	"}
+	 ,
+	{
+	"title" : "ရသ​မော်​ကွန်​း အလင်္ကာ",
+	"gen" : "seris",
+	"status" : "Complete",
+	"date" : "2019",
+	"qual" : "480p",
+	"cover" : "http://static.pyoneplay.com/static/show/sh_header_1539937401.jpg",
+	"image" : "http://static.pyoneplay.com/static/show/sh_logo_1539937401.jpg",
+	"link" : "https://family-photo-72685.firebaseio.com/KyiMalSeries/allseries/yata/",
+	"tag" : "",
+	"vol" : "MRTV-4 တွင်ထုတ်လွင့်ပြသခဲ့ပြီး အောင်မြင်မှုများရခဲ့တဲ့ ဇာတ်လမ်းတွဲတစ်ခုဖြစ်တဲ့ ''ရသ​မော်​ကွန်​း အလင်္ကာ'' ဇာတ်လမ်းတွဲကို ပြန်လည်ကြည့်ရှုလိုသူများ နှင့် အမှတ်တရသိမ်းထားလိုသူများအတွက် ပြန်လည်တင်ဆက်ပေးလိုက်ပါတယ်။ အားလုံးပဲ ရှုစားအားပေးကြပါ အုံး.....
+	"},
+		{
+		"title" : "Ads Slider",
+		"gen" : "web",
+		"cover" : "https://i.ytimg.com/vi/Rv5698yhg3s/maxresdefault.jpg"
+	}
+		 ],
+	  
 	  "movies" : [
 	  
 	      {
