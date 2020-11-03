@@ -2,6 +2,11 @@
   {
 	  "testtitle" : "Lee title",
 	  "home_genre" : [
+		  
+		  {
+			  "title" : "မြင့်မြတ်ဇာတ်ကားများ",
+			  "gen" : "myintmyat"
+		  },
 		  {
 			  "title" : "Comedy",
 			  "gen" : "comedy"
