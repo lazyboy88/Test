@@ -1,113 +1,1748 @@
 
   {"movies" : [
       {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Movies (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      }
-      ,{
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      },{
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      },{
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      },
-    {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      }
-      ,{
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      },{
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      },{
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (1)",
-        "video" : "https://www.mediafire.com/file/jp9xdctp3fctmd6/[Non_Nobis_Translate]_Araiya-san!_Ore_to_Aitsu_ga_Onnayu_de!_-_01_(Uncensored)_edit.mkv/file"
-      },
-      {
-        "cover" : "https://image.tmdb.org/t/p/w300/71G5TK4YegoxFZyb9aqbyKOUBTE.jpg",
-        "desc" : "Washer!: She and I in the Women’s Bath!?",
-        "length" : "7:00",
-        "title" : "Episode (2)",
-        "video" : "https://mega.nz/#!ubolgASB!nktjKH2mm_OSIb0Kwf-EqEpZxYFw7djXea7B9o_QVLA"
-      }
+"title" : "အိပ်ဆေး",
+"gen" : "kaungpyae,horror",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-xpUCwWAKjhQ/XzF0cFLcD9I/AAAAAAAAYuI/tR4FcdcONEsggzDlQ2yeu3bIvs4Bd6yuQCLcBGAsYHQ/s5000/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-AYtA5Pjjqm0/XzF0c7zXffI/AAAAAAAAYuM/l9ryx_u_rgwVBsQwOwlNXcs4_AC8oo24wCLcBGAsYHQ/s500/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B81.jpg",
+"length" : "1hr 43min",
+"qual" : "720p FullHD",
+"size" : "952 MB",
+"video" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
+"vol" : ""}
+,
+{
+"title" : "သားဗိုက်ကောင်",
+"gen" : "tuntun,comedy,drama",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-CdN1GEIcEXw/XzF0V_PEsCI/AAAAAAAAYtA/T5ID8v2nreYa_gX5RQAgsqzm4zHLDbhHQCLcBGAsYHQ/s5000/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-PCKyLHVXvr4/XzF0WNwlitI/AAAAAAAAYtE/1Tw9O2bIH9gjkZnqBhjTK3hZ3qqDWtR8ACLcBGAsYHQ/s500/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA1.jpg",
+"length" : "2hr 10min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/18uIYPvwaeQ42s-ncQ3dfinOQ8v6_XZEs/view",
+"vol" : ""}
+,
+	
+{
+"title" : "လေးပါးကျော့ရှိန် ဝရဇိန်",
+"gen" : "naymin,minmawkun,minthway,tuntun,siphyo,comedy,action",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-JvqeeRgq5v0/XzF0U3UPgLI/AAAAAAAAYsw/w3tAFMmkkio5xxYhJpq4V7MXrDksVT9KQCLcBGAsYHQ/s5000/%25E1%2580%259C%25E1%2580%25B1%25E1%2580%25B8%25E1%2580%2595%25E1%2580%25AB%25E1%2580%25B8%25E1%2580%2580%25E1%2580%25BB%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%25B7%25E1%2580%259B%25E1%2580%25BE%25E1%2580%25AD%25E1%2580%2594%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-wOeQiAE68Hc/XzF0VN6t0KI/AAAAAAAAYs0/gKKGLjm5E60bBmRo1a9tFU9u7veHmISdwCLcBGAsYHQ/s0/%25E1%2580%259C%25E1%2580%25B1%25E1%2580%25B8%25E1%2580%2595%25E1%2580%25AB%25E1%2580%25B8%25E1%2580%2580%25E1%2580%25BB%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%25B7%25E1%2580%259B%25E1%2580%25BE%25E1%2580%25AD%25E1%2580%2594%25E1%2580%25BA1.jpg",
+"length" : "2hr 5min",
+"qual" : "1080p FullHD",
+"size" : "1.0 GB",
+"video" : "https://drive.google.com/file/d/1vG-xY2fOIFDlCUMoinH82-v--9xU9-eb/view",
+"vol" : "နဖြူစင်သောမေတ္တာတရား ၊ စစ်မှန်သောသူငယ်ချင်း ၊ ချစ်စရာကောင်းတဲ့ဘဝတွေကိုပုံဖော်ရိုက်ကူးထားတဲ့ ရုပ်ရှင်ဇာတ်ကားကြီး...။ မင်းသွေးကို ပြန်လည်အမှတ်ရစေမယ့်  လေးပါးကျော့ရှိန် ဝရဇိန်...။"}
+,
+{
+"title" : "ပထမထပ် ဟန်းနီးမွန်း",
+"gen" : "zayyehtet,comedy",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-aJxv6uy6M_Y/XzF0KrWgzRI/AAAAAAAAYrE/HAemI6dKcdIC0KDI6CRycpNlugQcFgk1QCLcBGAsYHQ/s5000/%25E1%2580%2595%25E1%2580%2591%25E1%2580%2599%2B%25E1%2580%259F%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2594%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2599%25E1%2580%25BD%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-f25Q0apDF8w/XzF0KlrcKmI/AAAAAAAAYrI/MT23aaxbnfAvD6JfcKGTd1tC533VyBz5gCLcBGAsYHQ/s500/%25E1%2580%2595%25E1%2580%2591%25E1%2580%2599%2B%25E1%2580%259F%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2594%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2599%25E1%2580%25BD%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B81.jpg",
+"length" : "2hr 21min",
+"qual" : "720p FullHD",
+"size" : "1.0 GB",
+"video" : "https://drive.google.com/file/d/1FMXpAy2Q1HjO2bzv08-ightzCan5o8U0/view",
+"vol" : ""}
+,
+{
+"title" : "ခေါက်ထီးလေး မလုံ့တလုံ",
+"gen" : "minmawkun,drama",
+"date" : "2016",
+"cover" : "https://1.bp.blogspot.com/-kFqVRnidoZo/XzF0C4VHayI/AAAAAAAAYps/dzR_C5d-SywF1wVdqalne1dDkDfZRUboQCLcBGAsYHQ/s5000/%25E1%2580%2581%25E1%2580%25B1%25E1%2580%25AB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%259C%25E1%2580%25B1%25E1%2580%25B8%2B%25E1%2580%2599%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B7%25E1%2580%2590%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25A1%25E1%2580%25AC%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-_iMOc0ArFKA/XzF0C9UaYZI/AAAAAAAAYpw/wOBMqmRKhccKab68A4tX_RmGulYRrU6AACLcBGAsYHQ/s500/%25E1%2580%2581%25E1%2580%25B1%25E1%2580%25AB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%259C%25E1%2580%25B1%25E1%2580%25B8%2B%25E1%2580%2599%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B7%25E1%2580%2590%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25A1%25E1%2580%25AC%25E1%2580%25B81.jpg",
+"length" : "2hr 13min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1ZGgtd1lDz0eMG5xNX39yn6GXjzsEVDNh/view",
+"vol" : ""}
+,
+{
+"title" : "ဂျုံးဂျုံး ဂျက်ဂျက်",
+"gen" : "saisaikhunhlaing,basai,drama",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-QGjX6dTWEIg/XzF0Ef5oc4I/AAAAAAAAYp8/YIs_DhMPO_YReKlHfSIUqdfjTdMVbc59QCLcBGAsYHQ/s5000/%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-3z3qmNtmsTA/XzF0EtyZUQI/AAAAAAAAYqA/c2O-cHomuswcNg-b6B1LX4IuQG-mHSXTgCLcBGAsYHQ/s5000/%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA1.jpg",
+"length" : "2hr 00min",
+"qual" : "720p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1FjzNrjhXG2SuPPsmy2m4LMTJR38g6LdN/view",
+"vol" : ""}
+,	   
+{
+"title" : "မာယာပရောဂျက်",
+"gen" : "naytoe,thetmommyint,phwayphway",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-IUsosaYZJVk/XzPKGNOIkJI/AAAAAAAAZJo/GAWTpfYGnaETUl2v2g_pPCYd_0nS2gtggCLcBGAsYHQ/s5000/mar-yar-project.jpg",
+"image" : "https://1.bp.blogspot.com/-JEzqWB2peoY/XzPKF6ltnxI/AAAAAAAAZJk/ibqaa7UAVT8pFxhm8IXF1zezST0-OzpywCLcBGAsYHQ/s300/maryarsmall.jpeg",
+"length" : "1:54:33",
+"qual" : "",
+"size" : "1GB",
+"video" : "https://drive.google.com/file/d/1dpgP5bjLfRXC3Dp7XWnjWdq2P2pndQJs/view",
+"vol" : "နေတိုး၊ သက်မွန်မြင့်၊ ဖွေးဖွေး"
+}
+,
+{
+"title" : "ပြဿနာ",
+"gen" : "naytoe,zarganar,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165735655/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165758468/d-1",
+"length" : "1hr 51min",
+"qual" : "1080p FullHD",
+"size" : "1.0 GB",
+"video" : "https://drive.google.com/file/d/1fmyBssquv90jHhxGAGLMY3_Gb5UXM3x2/view",
+"vol" : "နေတိုးရဲ့၂၀၁၉ခုနှစ်ထွက် ဟာသရုပ်ရှင်ကားသစ်ကြီးဖြစ်ပါတယ်။
+တစ်ရပ်ကွက်လုံးနဲ့တည့်တဲ့ ဆံပင်ညှပ်ဆရာလေး နီတွတ်က ယောက္ခမလောင်းကြီးဦးလှဆောင်နဲ့ကျမှပဲ တစောင်းစေးနဲ့မျက်ချေးဆိုသလိုဖြစ်နေလေတော့ သူတို့နှစ်ယောက်ပြဿနာတက်တော့တာပေါ့။
+နေတိုးနဲ့ဇာဂနာတို့ရဲ့ပြဿနာကို ဆက်လက်ကြည့်ရှုလိုက်ပါဦးနော်။"}
+,
+{
+"title" : "တိမ်တိုက်တံတား",
+"gen" : "naytoe,tuntun,drama",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-2MTR2AFinVg/XzF0FyqB3lI/AAAAAAAAYqQ/kVL05ZNRXDAEdsyBxsrPWsdnNE-8CkOzACLcBGAsYHQ/s5000/%25E1%2580%2590%25E1%2580%25AD%25E1%2580%2599%25E1%2580%25BA%25E1%2580%2590%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2590%25E1%2580%25B6%25E1%2580%2590%25E1%2580%25AC%25E1%2580%25B81.jpg",
+"image" : "https://1.bp.blogspot.com/-inCtiy_pOR0/XzF0FqWO2tI/AAAAAAAAYqM/8OioSV1_Mc8KqGV4Lrb5JyxYAsCedRtxQCLcBGAsYHQ/s640/%25E1%2580%2590%25E1%2580%25AD%25E1%2580%2599%25E1%2580%25BA%25E1%2580%2590%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2590%25E1%2580%25B6%25E1%2580%2590%25E1%2580%25AC%25E1%2580%25B8.jpg",
+"length" : "2hr 11min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1VDhEPty8LAXdGA_wL2pNDdof0XShEPBc/view",
+"vol" : "နိုင်ငံခြားမှာ အောင်မြင်နေတဲ့ Doctor မလေးနဲ့ နမ့်ပန်ရွာလေးက ရွာသားလေးနေတိုး
+
+သူတို့နှစ်ယောက်ကြားမှာ ဘယ်လိုမျိုးဆက်စပ်မှုတွေရှိနေမလဲဆိုတာ စိတ်ဝင်စားဖွယ် စောင့်မျှော်ကြည့်ရှုရမယ့်  ရုပ်ရှင်ဇာတ်ကားကြီး"}
+,
+		
+{
+"title" : "သတ်ကွင်း",
+"gen" : "minthway,siphyo,nayye,htoochar,naytoe,zinwine,drama,triller,advanture",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165753932/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165753937/d-1",
+"length" : "1hr 52min",
+"qual" : "1080p FullHD",
+"size" : "1.0 GB",
+"video" : "https://drive.google.com/file/d/1RSkTEsEYqlpQm7LQEmlAIvx3zhwqIy0s/view",
+"vol" : "ဇာတ်လမ်း သားညီ၊
+ဆူူးခက်မင်း၊ မိုးစက်ဝိုင်၊
+ဇာတ်ညွှန်း ဆူးခက်မင်း၊
+ဒါရိုက်တာ သားညီရိုက်ကူးပုံဖော်ထားသည့်
+  
+သတ်ကွင်း (Killing Field) ရုပ်ရှင်ဇာတ်ကားကြီးမှာ Adventure, Thriller ကားအမျိုးအစားဖြစ်ပါတယ်။
+သတ်ကွင်းရုပ်ရှင်ဇာတ်ကားကြီးတွင် သရုပ်ဆောင် မင်းသွေး၊ စည်ဖြိုး၊ နေရဲ၊ ထူးခြား
+  
+(ဧည့်သည်သရုပ်ဆောင် နေတိုး၊ သက်မွန်မြင့်၊ ဇင်ဝိုင်း၊ ပို်င်ဖြိုးသု) တို့ပါဝင်သရုပ်ဆောင်ထားကြပါတယ်။"}
+,
+{
+"title" : "ေကျာမှာဂဠုန် ရင်မှာနဂါး",
+"gen" : "myintmyat,drama,kyawthu",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165734584/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165753861/d-1",
+"length" : "2hr 08min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1aQ2zXsQsKaOTShQAVtvS-fDS7VaDlfRf/view",
+"vol" : "မင့်မြတ်ရဲ့ ၂၀၁၉ ခုနှစ်အတွက်အကယ်ဒမီစာရင်းဝင်ဇာတ်ကားတစ်ကားဖြစ်ပါတယ်။ အဖေဆိုတာ ကျုပ်အသွေးထဲအသားထဲက ပွက်ပွက်ဆူအောင်ကိုမုန်းတာဆိုတဲ့ ပြည်ကျော်။
+ငါ့သားကိုထိလို့ကတော့ မင်းတို့အားလုံးကို ငရဲပြည်ပို့လိုက်မယ်ဆိုတဲ့ တိုင်းကျော်။
+သူတို့သားအဖနှစ်ယောက်ရဲ့ကံကြမ္မာက ဘယ်လိုတွေဖန်လာဦးမလဲ။
+မြင့်မြတ်နဲ့ကျော်သူတို့ရဲ့အကောင်းဆုံးသရုပ်ဆောင်ချက်တွေကို ဆက်လက်ကြည့်ရှုလိုက်ပါ။"}
+,
+		{
+"title" :" ကြိုးဖြင့်ချည်ထားသော ဗာရာဏသီ",
+"gen" : "bayluwa,comedy",
+"date" : "2017",
+"cover" : "https://1.bp.blogspot.com/-Xywur6e6gFA/XzF0BluyN7I/AAAAAAAAYpc/XUZpHHZEolIBMaddVYu6-dAzrSILpCHIgCLcBGAsYHQ/s5000/%25E1%2580%2580%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%2596%25E1%2580%25BC%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%2581%25E1%2580%25BB%25E1%2580%258A%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%259E%25E1%2580%25B1%25E1%2580%25AC%2B%25E1%2580%2597%25E1%2580%25AC%25E1%2580%259B%25E1%2580%25AC%25E1%2580%258F%25E1%2580%259E%25E1%2580%25AE.jpg",
+"image" : "https://1.bp.blogspot.com/-yaCeWN6IOU4/XzF0B18dQiI/AAAAAAAAYpg/qVs4bvtSBaQwFChqTNXjDswP5M7FSYM-QCLcBGAsYHQ/s5000/%25E1%2580%2580%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%2596%25E1%2580%25BC%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%2581%25E1%2580%25BB%25E1%2580%258A%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%259E%25E1%2580%25B1%25E1%2580%25AC%2B%25E1%2580%2597%25E1%2580%25AC%25E1%2580%259B%25E1%2580%25AC%25E1%2580%258F%25E1%2580%259E%25E1%2580%25AE1.jpg",
+"length" : "2hr 10min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1qLI11szQggKo_-VzuV5Pil_XP79ee_Nn/view",
+"vol" : ""}
+,
+{
+"title" : "မှော်ကျောက်စာ",
+"gen" : "myintmyat,thuhtoosan,phyongwesoe,tuntun,history,drama",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165757131/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165758457/d-1",
+"length" : "1hr 51min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1RQs6Km2mgczPQXAJV-kGjBLRDDuue7sC/view",
+"vol" : "ဒါရိုက်တာဝင်းထွန်းထွန်း(အနုပညာပြချက်)ရဲ့မှော်ကျောက်စာရုပ်ရှင်ဇာတ်ကားကြီးဟာ
+မြင့်မြတ် ရွှေမှုံရတီ၊ သူထူးစံ၊ ဖြိုးငွေစိုး၊ ထွန်းထွန်းစတဲ့သရုပ်ဆောင်ပေါင်းများစွာ ပါဝင်သရုပ်ဆောင်ထားတဲ့
+ဇာတ်ကားကောင်းတစ်ကားဖြစ်တယ်။ ရာဇဝင်ထဲကနန်းတွင်းအရှုပ်တော်ပုံတွေက
+ယနေ့ခေတ်တက္ကသိုလ်ကျောင်းသားတစ်ယောက်ရဲ့ နေ့စဉ်ဘဝနဲ့ ဘယ်လိုပတ်သက်မှုရှိနေလဲဆိုတာ..."}
+,
+		{
+"title" : "ဒုဋ္ဌဝတီကို လွန်၍",
+"gen" : "Nine Nine,San Htut,Action",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-e0KA7Xae8fI/XzFz_UUeICI/AAAAAAAAYpI/epXsQqVb9NEBJot2lLU6VUTUwsRzASU5wCLcBGAsYHQ/s5000/The%2BMystery%2Bof%2Bburma1.jpg",
+"image" : "https://1.bp.blogspot.com/-GD5YM_oimFc/XzFz_YtNxyI/AAAAAAAAYpE/PB4nJnjpBLsT-AYecKK_O-1ZZEILc1VmACLcBGAsYHQ/s320/the%2BMystery%2BOf%2BBurma.jpg",
+"length" : "1hr 52min",
+"qual" : "720p FullHD",
+"size" : "434 MB",
+"video" : "https://drive.google.com/file/d/1eTJ-h1bSwf4gPKKHHQp1oS0XNY7QnAWF/view",
+"vol" : "ထက်နိုင်ဟာ ပြင်သစ်နိုင်ငံမှာနေထိုင်တဲ့ မြန်မာလူမျိုးတစ်ဦးဖြစ်ပါတယ်။ ထက်နိုင်ရဲ့ မိဘတွေနဲ့ အစ်ကိုဖြစ်သူဟာ မြန်မာပြည်မှာနေထိုင်ကြပြီး မိသားစုအချင်းချင်းအဆက်အသွယ်မပြတ်ကြပါဘူး။ တစ်နေ့တော့ ထက်နိုင်ရဲ့ မိဘတွေအသတ်ခံရတယ်ဆိုတဲ့ သတင်းကြောင့် ထက်နိုင်တစ်ယောက် မြန်မာပြည်ကို အမြန်ပြန်လာခဲ့ရပါတော့တယ်။ အဲဒီကစလို့ သာယာနေတဲ့ ထက်နိုင်ရဲ့ ဘဝဟာ ကျွမ်းထိုးမှောက်ခုံဖြစ်ခဲ့ရပါတော့တယ် 
+
+အဲ့ဒီနောက် …
+
+ထက်နိုင်ရဲ့ အကိုထက်ပိုင်တစ်ယောက် အစရှာလို့မရအောင်ပျောက်နေတာ ဘာကြောင့်လဲ …….
+
+ထက်နိုင်ရဲ့နောက်ကို နောက်ယောင်ခံလိုက်နေတဲ့ မိန်းမချောလေးက ဘယ်သူလဲ ………
+
+ထက်နိုင်ကရော ဒီအရှုပ်တော်ပုံကြီးကို ဘယ်လိုဖြေရှင်းမလဲ ….
+
+စတာတွေကို စိတ်လှုပ်ရှားဖွယ်ရာ ဆန်းကြယ်မှုတွေ၊ လျှို့ဝှက်မှုတွေ ရောပြွမ်းလို့ ရိုက်ပြထားတာကို တွေ့ရမှာပါ"}
+,
+		
+		
+{
+"title" : "အော်တိုဘုရင်",
+"gen" : "kyawkyawbo,zarganar,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165765004/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165763271/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "ဇာဂနာနဲ့ကျော်ကျော်ဗိုလ်တို့ရဲ့ နာမည်ကြီးခဲ့တဲ့အော်တိုဘုရင်ဟာသရုပ်ရှင်ကားကြီးဖြစ်ပါတယ်။
+ဘုရင်အဖြစ်ရွေးကောက်တင်မြှောက်ခံရဖို့ဆိုတာ တော်ရုံတန်ရုံလွယ်တဲ့ကိစ္စမဟုတ်ပေမယ့်
+သူတို့ကျမှဘယ်လိုဖြစ်လို့ အော်တိုဘုရင်ဖြစ်သွားရတာလဲဆိုတာ ဆက်ကြည့်လိုက်ပါဦးနော်။"}
+,
+
+	{
+"title" : "ဂယ်ဘဲသရဲနှင့်သူငယ်ရွာ",
+"gen" : "khinhlaing,joker,comedy",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-Ws_ZL9qHWN4/XzF0Di6e-LI/AAAAAAAAYp0/VTFjp_JRCCEtfDt8plIRJPWP80eomRwAgCLcBGAsYHQ/s5000/%25E1%2580%2582%25E1%2580%259A%25E1%2580%25BA%25E1%2580%2598%25E1%2580%25B2%25E1%2580%259E%25E1%2580%259B%25E1%2580%25B2%25E1%2580%2594%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%259E%25E1%2580%25B0%25E1%2580%2584%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BD%25E1%2580%25AC.jpg",
+"image" : "https://1.bp.blogspot.com/-oxWj9Q_lWWc/XzF0EI3lfWI/AAAAAAAAYp4/QllIBnBSsVMzbvWcrobqrO3bBc1lNktmQCLcBGAsYHQ/s5000/%25E1%2580%2582%25E1%2580%259A%25E1%2580%25BA%25E1%2580%2598%25E1%2580%25B2%25E1%2580%259E%25E1%2580%259B%25E1%2580%25B2%25E1%2580%2594%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%259E%25E1%2580%25B0%25E1%2580%2584%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BD%25E1%2580%25AC1.jpg",
+"length" : "2hr 13min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1w5slOu7ZOlP6IfrOBovI9P_Hqkslf4Zo/view",
+"vol" : ""}
+,
+
+{
+"title" : "ဆိုင်းကြိုက်တဲ့မောင်",
+"gen" : "myintmyat,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165722678/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165753863/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1br3jQpbp8IyR5JcPPc7LCYuRv1V4Lq4T/view",
+"vol" : "မြင့်မြတ်ရဲ့ ၂၀၁၈ ထွက်ဟာသရုပ်ရှင်ကားကြီး။ ဆိုင်းသံဗုံသံကြားရင် မကရမနေနိုင်တဲ့
+မြင့်မြတ်နဲ့သက်မွန်မြင့်တို့မိသားစုလေးဆီကို ဘယ်ကမှန်းမသိတဲ့ လူကြီးတစ်ယောက်ရောက်လာပါတယ်။
+သက်မွန်မြင့်ကလည်း အဖေအစားရပြီဆိုပြီး အိမ်ပေါ်မှာခေါ်တင်ထားပါတယ်။
+မြင့်မြတ်နဲ့ယောက်ဖတွေဖြစ်ကြတဲ့ ခင်လှိုင်တို့ ဒိန်းဒေါင်တို့ကတော့ အဲဒီလူကြီးကိုလုံးဝကြည့်မရကြပါဘူး။
+"}
+,
+{
+"title" : "ဓားငပြူး",
+"gen" : "comedy,myintmyat",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165722760/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165732972/d-1",
+"length" : "1hr 48min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1RiRzRm_-rxRcNXXxiZHutbJi_DjceSEY/view",
+"vol" : "မြင့်မြတ်ရဲ့အသစ်စက်စက်ဟာသကားကြီးဖြစ်ပါတယ်။
+ငပြူးက မိဂျမ်းကိုကြိုက်ပေမယ့်
+မိဂျမ်းကနာမည်ကြီးတဲ့သူကိုမှ စိတ်ဝင်စားမယ်ဆိုတော့ ငပြူးတစ်ယောက် နာမည်ကြီးအောင် ကြံရဖန်ရပါတော့တယ်။
+ဒါပေမဲ့ နာမည်ကြီးဖြစ်မယ့်အစား ဓားသူခိုးလို့စွပ်စွဲခံရပြီး ရွာဥက္ကဌအိမ်မှာ တစ်ညအချုပ်ခံလိုက်ရပါတယ်။
+ငပြူးကိုသနားတဲ့ ဥက္ကဌက ခဏလွှတ်ပေးလိုက်တဲ့အချိန်မှာ ငပြူးတစ်ယောက် ဓားပြအဖွဲ့ကိုလက်ရဖမ်းမိလိုက်ပါတယ်။
+အဲဒီကနေ ဓားငပြူးရယ်လို့ နာမည်တွင်သွားတဲ့အခါ...
+"}
+,
+		
+		{
+"title" : "ဖိုးရှိတ်",
+"gen" : "myintmyat, Comedy",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-YPf0uk2_nsc/XzF0LaFGNaI/AAAAAAAAYrM/R5ItjfRg1m8JixwPvO7cvYbO0TUt140pwCLcBGAsYHQ/s5000/%25E1%2580%2596%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%259B%25E1%2580%25BE%25E1%2580%25AD%25E1%2580%2590%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-S0VRc_G_cFo/XzF0L2spyeI/AAAAAAAAYrQ/qfDpeShIIJUlr4yJXfnHkR_b0vwXCCtkwCLcBGAsYHQ/s0/%25E1%2580%2596%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%259B%25E1%2580%25BE%25E1%2580%25AD%25E1%2580%2590%25E1%2580%25BA1.jpg",
+"length" : "1hr 56min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1EB8Y3AVWntjIDIWznqMCzuvFZqaZF3IG/view",
+"vol" : "ဒီဇာတ်ကားမှာတော့ မြင့်မြတ်၊ သင်ဇာနွယ်ဝင်း၊ ခင်လှိုင်၊ ဒိန်းဒေါင်၊ ထူးမွန်၊ မျိုးမျိုးခိုင်တို့က အဓိက ပါဝင် သရုပ်ဆောင်ထားပြီးတော့ ကျေးလက်သဘာဝ ဟာသဆန်ဆန်အဖြစ်အပျက်တွေကို ဘယ်လိုမျိုး ရယ်မောပျော်ရွှင်ဖွယ်ရာ ရိုက်ကူးတင်ဆက်ထားသလဲဆိုတာကို ဆက်လက်ကြည့်ရှုကြပါဦး...
+"}
+,
+{
+"title" : "ဘာမီတွန်",
+"gen" : "yanungaung,naytoe,thetmommyint,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-n4jlfrZdRHk/XzJnGxs3XsI/AAAAAAAAY8c/3b5Qye8MtCMom4z4ohGZJ3EhUcjh4Y6WgCLcBGAsYHQ/s5000/brmiTon.jpg",
+"image" : "https://1.bp.blogspot.com/-YSb4ehxd_f0/XzJ1LoUVawI/AAAAAAAAY80/CZt9lxFd4LEzeR-QtYSitYBgzWrdAfkJwCLcBGAsYHQ/s5000/b2.jpg",
+"length" : "2:24:43",
+"qual" : "‪1,280 x 720‬",
+"size" : "938 MB",
+"video" : "https://drive.google.com/file/d/19ySqNq5pLiD217gco3rEG69_H8TrLhrH/view",
+"vol" : " ရန်အောင် ၊ နေတိုး ၊ ထွန်းအိန္ဒြာဗို ၊ သက်မွန်မြင့်"
+}
+,
+
+{
+"title" : "မာမီရှိန်း ",
+"gen" : "naytoe,Eaindrakyawzin,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-uPQBP2fpEgM/XzJ7hAit2tI/AAAAAAAAY9Q/7PLnXCTTN0AJdBnPCyK9-gcI4n4EMUmHACLcBGAsYHQ/s5000/MarMeShein.jpg",
+"image" : "https://1.bp.blogspot.com/-ZHieCo6p_PE/XzJ7hby42wI/AAAAAAAAY9U/z2NWZnEcGssoHyoxMU8chL9J9lolLcYqgCLcBGAsYHQ/s5000/mrmeSmall.jpeg",
+"length" : "2:25:08",
+"qual" : "‪1,920 x 1,080‬",
+"size" : "2GB",
+"video" : "https://drive.google.com/file/d/13TX8onO6sWe2d7W8CQ122Q7eC-VwK193/view",
+"vol" : "နေတိုး၊ အိန္ဒြာကျော်ဇင်"
+}
+,
+{
+"title" : "ကိုကိုစုံထောက်ကြီး ",
+"gen" : "naytoe,shwemonyati,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-9lvHUuXgdTM/XzJnG5AS8FI/AAAAAAAAY8k/VAnGJRbdRzoJnIV04hlRyE-ZuC0mQMfcQCLcBGAsYHQ/s5000/kokodetative.jpg",
+"image" : "https://1.bp.blogspot.com/-kfKkaTs66tQ/XzJ1LvSE60I/AAAAAAAAY84/HhMpVjaCxLw0lRcHOvMw6Sh3MnHjrmGVQCLcBGAsYHQ/s640/kokodetative.jpg",
+"length" : "1:48:00",
+"qual" : "1280 × 720",
+"size" : "567 MB",
+"video" : "https://drive.google.com/file/d/1FNSzeLB_I-gi6hOMQ2o8uWOdRC9errHg/view",
+"vol" : "နေတိုး၊ ရွှေမှုံရတီ"
+}
+,
+{
+"title" : "နက္ခတ်မှားတဲ့တိုက်ပွဲ",
+"gen" : "drama,naytoe",
+"date" : "2016",
+"cover" : "https://1.bp.blogspot.com/-tQ8_slOg7vM/XzF0INGCosI/AAAAAAAAYqs/vv7IA5fJ74QlruABO61h5EoXRHfVYPQWwCLcBGAsYHQ/s5000/%25E1%2580%2594%25E1%2580%2580%25E1%2580%25B9%25E1%2580%2581%25E1%2580%2590%25E1%2580%25BA%25E1%2580%2599%25E1%2580%25BE%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2590%25E1%2580%25B2%25E1%2580%25B7%25E1%2580%2590%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2595%25E1%2580%25BD%25E1%2580%25B2.jpg",
+"image" : "https://1.bp.blogspot.com/-6KkVn4YvU3U/XzF0Iwn_PdI/AAAAAAAAYqw/F2Ns2tYRbGkhqb8P4T1be8YE_VOOMtVhACLcBGAsYHQ/s500/%25E1%2580%2594%25E1%2580%2580%25E1%2580%25B9%25E1%2580%2581%25E1%2580%2590%25E1%2580%25BA%25E1%2580%2599%25E1%2580%25BE%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2590%25E1%2580%25B2%25E1%2580%25B7%25E1%2580%2590%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2595%25E1%2580%25BD%25E1%2580%25B21.jpg",
+"length" : "2hr 9min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1rek_UotebhpTwre6lRhTT1EjhLcO1Ies/view",
+"vol" : "
+
+ဦးဇမူ္ဗလွင်တွင် လကျာ်ဟုခေါ်သော အချစ်ဆုံးသားတစ်ယောက်ရှိသည်။ တစ်ဦးတည်းသောသားပီပီ လကျာ်သည် တစ်ခါတရံအပေါင်းအသင်းများနှင့်အတူ ဆိုးပေးသောင်းကျန်တတ်သည်။ တစ်ရက်မှာ လကျာ်၏ လုပ်ရပ်ကြောင်း ဖခင်က တောနယ်တစ်ခုရှိ လုပ်ကွက်တစ်ခုကို ကိုယ်တိုင်သွားရောက်လေ့လာရန် အပြစ်ပေးလိုက်ပါတယ်။ ထိုနယ်တွင် အဖွဲ့အစည်းတစ်ခုမှ မိန်းကလေးအဖွဲ့နှင့်ဆုံတွေ့ပြီး နိုရာဆိုသည့် ကောင်းမလေးအား လကျာ်မှ နှစ်သက်သဘောကျသွားပါတယ်။ 
+ရန်ကုန်ပြန်ရောက်သောအခါ လကျာ်က နိုရာဆိုသည် ကောင်းမလေးနှင့် စေစပ်ချင်ကြောင်း ဖခင်အားတောင်းဆိုပါတော့တယ်။ ဖခင်ဖြစ်သူသည် လကျာ်နှင့် နိုရာအားစေ့စပ်ကြောင်းလမ်း ပေးလိုက်ပါတော့တယ်။ စေ့စပ်မှုအောင်ပွဲအတွက် လကျာ်သည် ဘောဒါများနှင့် ပါတီပေးခဲ့ပြီး ထိုပါတီမှ အပြန် လကျာ်သည့် နိုရာအိမ်သို့သွားရောက်ကာ နိုရာနှင့်စကားပြောရန် ခွင့်တောင်းသဖြင့် နိုရာမိဘများနှင့် အကိုများက အရက်မူးနေသောကြောင့် မနက်မှစကားလာပြောရန် ပြန်ပြောပြီး ခြံဝန်းထဲမှ ဆွဲခေါ်ထုတ်ကာ လကျာ်နှင့် ကတောက်ကဆနှင့် ရန်ဖြစ်ကြပါတော့တယ်။ 
+နောက်တနေ့တွင့် လကျာ်တစ်ယောက် သူ့ချစ်သူ နိုရာသူအား စိတ်ဆိုးမည်ဆိုး၍ ဖုန်းဆက်ကာတောင်းပန်တော့သည်။ ဖုန်းထဲတွင် နိုရာက လကျာ်အား စိတ်ဆိုးမပြေသောကြောင့် အပြင်မှာတွေ့ဖို့ လကျာ်အား အချစ်ဆုံးသူငယ်ချင်းတစ်ယောက်အိမ်တွင်တွေ့ရန် ချိန်းဆိုလိုက်ပါတော့တယ်။ 
+ထိုသူငယ်ချင်းမိန်းမပျိုတစ်ယောက်၏ နေအိမ်သို့ လကျာ်က ကြိုရောက်သောအခါ မျက်နှာပေါင်းတင်လက်စ သူငယ်ချင်း မိန်းမပျိုမှ လကျာ်အား ဧည့်ခန်းတွင် ထိုင်စေကာ ကော်ဖီတစ်ခွက်ဖြင့် ဧည့်ခံထားပြီး သူမရေချိုးလိုက်မည်ဟု ခွင့်တောင်း၍ သူမ၏အခန်းထဲသို့ ပြန်သွားလေသည်။
+သူမရေချိုးပြီးချိန် အခန်းထဲသို့ လကျာ်ရောက်လာပြီး အဓမ္မပြုကျင့်ရန် ကြံနေသောအချိန်တွင် သူ၏ချစ်သူ နိုရာ ရောက်လာကာ လကျာ်၏ အကျင့်စရိုက်အား လက်ပူးလက်ကြပ်မိတော့သည်။ နောက်နေ့မနက်တွင် ဖခင်ဖြစ်သူသည် လကျာ်အား စိတ်မူမမှန်ပုံကို ဆရာဝန်နှင့်ပြ၍ ဆရာဝန်မှ လကျာ်အား စောင့်ကြည့်ရန် ပြောလိုက်သည်။
+လကျာ်တစ်ယောက် ဒီလို့အဖြစ်အပျက်တွေဖြစ်တာက ဘယ်လို့ကြောင့်လဲ အဲဒီအချိန်မှာ သူနဲ့ရုပ်ချင်းတူတဲ့ ရဲရင့်ကထွက်ပေါ်လာတယ်။ လကျာ်က ဒီလိုအပြုအမှုတွေကို ဘာကြောင့်လုပ်ခဲ့တာလည်း၊ နိုရာနဲ့လကျာ်နဲ့ရော ဘာတွေဆက်ဖြစ်ကြမလဲဆိုတာ နက္ခတ်မှားတဲ့တိုက်ပွဲ ရုပ်ရှင်ဇာတ်ကားကို ငွေရောင်ပိတ်ကားပေါ်တွင် ဆက်လက်ရှုစားကြပါ။
+
+ 
+
+		"
+	}
+	,
+		{
+"title" : "တီတီနဲ့ဒိုးနတ်",
+"gen" : "drama,Pyay Te Oo, Comedy",
+"date" : "2016",
+"cover" : "https://1.bp.blogspot.com/-X3JM6DGLdmc/XzF0Fy8v3AI/AAAAAAAAYqU/FI3odmmQ_xQYnpmIxOqWiHWLnBOUVC3bACLcBGAsYHQ/s5000/%25E1%2580%2590%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2590%25E1%2580%25AE%2B%25E1%2580%2594%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%2592%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%2594%25E1%2580%2590%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-iYqq58On41M/XzF0Gg2IoTI/AAAAAAAAYqY/u2nPEmOMObYmvWQaGQzGx9mxIyLL2mDXQCLcBGAsYHQ/s320/%25E1%2580%2590%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2590%25E1%2580%25AE%2B%25E1%2580%2594%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%2592%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%2594%25E1%2580%2590%25E1%2580%25BA1.jpg",
+"length" : "1hr 55min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1q0ZJZooNpZS4Ue6-OkgKxAcVnaXvTbNy/view",
+"vol" : "တီဦးလိုခေါ်တဲ့ လူတစ်ယောက်ဟာ သူတို့မိဘဘိုးဘွားလက်ထက်က အမြတ်တနိုးတန်ဘိုးထားခဲ့တဲ့ လတ်ဝတ်ရတာနာတစ်ခုနဲ့ ညီမဖြစ်သူကိုလိမ်လည်လှည့်စားသွားတဲ့ လူတစ်ဦးကိုရှာဖွေဖို့အတွက် ဘန်ကောက်မြို့ကိုရောက်ရှိလာခဲ့ရာမှ မထင်မှတ်ဘဲဒိုးနတ်လို့အမည်ရတဲ့ မိန်းကလေးတစ်ဦးနဲ့ တွေ့ဆုံခဲ့ ကြပါတယ်။
+ဒိုးနတ်ဆိုသူမိန်းကလေးကတော့ တစ်ချိန်က မာဖီးယားဂိုဏ်းရဲ့ခေါင်းဆောင်ကြီးတစ်ဦးရဲ့ တစ်ဦးတည်းသော သမီးဖြစ်ပါတယ်။
+ဖခင်ဖြစ်သူဟာ သူရဲ့သမီးကို Kong လို့ခေါ်တဲ့ လူလည်စီးပွားရေးသမားတစ်ယောက်နဲ့လက်ထပ်ပေးဖို့ စီစဉ်ခဲ့ပါတယ်။ သမီးဖြစ်သူဟာ Kong ကိုသဘောမကျလက်မထပ်လိုတဲ့အတွက် လက်ထပ်ပွဲအခမ်းအနား ကျင်းပရာနေရာ မင်္ဂလာဧည့်ခံပွဲမှ ထွက်ပြေးခဲ့ပါတယ်။
+သတို့သမီးလောင်းလေး ဒိုးနတ်ဟာထွက်ပြေးတိမ်းရှောင်နေချိန်မှာ ဖခင်ဖြစ်သူရဲ့တပည့်တပန်းများနဲ့ Kong ရဲ့ တပည့်တပန်းတွေကြားမှာ ပြေးလွှားရှောင်ပုန်းရင်း တီဦးလို့ခေါ်တဲ့ တီတီနဲ့ဆုံတွေ့ခဲ့ကြပြီး မတော်တဆ ဦးခေါင်းကို ထိခိုက်မိကာ အတိတ်မေ့သွားသလိုဖြစ်ခဲ့ပြီး သတို့သားလောင်း Kong ကရှာဖွေတွေ့ရှိချိန်အထိ သူနဲ့အတူပြန်မလိုက်ဘဲ တီတီဆိုသူနဲ့ အတူလိုက်ပါထွက်ပြေးတိမ်ရှောင်နေခဲ့ကြပါတယ်။
+သူဟာအတိတ်ကိုပြန်လည်သတိရလာတဲ့အချိန်အခါမှာတော့ ဒိုးနတ်ဟာသူ့အဖေအတွက် Kong လက်ထဲ ဘဲပြန်ရောက်သွားမလား၊ မြန်မာလူမျိုးတီတီနဲ့ဘဲ လက်တွဲချစ်ခွင့်ရမလားဆိုတာ ကိုတော့ TT & Donut အချစ်ဟာသအက်ရှင်ရုပ်ရှင်ကားကြီးရဲ့ ဇာတ်သိမ်းပိုင်းကိုပိတ်ကားထက်မှာ ဆက်လက်ရှုစားရမှာဖြစ်ပါ တယ်။...
+"}
+,
+{
+"title" : "ရန်သူ",
+"gen" : "drama,naymin",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165715986/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165715993/d-1",
+"length" : "2hr 09min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1HUD8hIWUZVtDQkcX2rnetWPxpoux8JHc/view",
+"vol" : "သံသယဆိုတာ အချစ်ကိုဖြည်းဖြည်းချင်းသတ်မယ့်
+အဆိပ်၊ ဆန်းကြယ်နဲ့သက်ထင်တို့က ငယ်ငယ်လေးကတည်းက အပြိုင်အဆိုင်ရယ်ပါ။
+ဆန်းကြယ်က မိန်းကလေးပေမယ့် ယောက်ျားလေးလိုပဲနေတတ်ပြီး သက်ထင်ကိုတစ်စက်ကလေးမှ အကျောခံတဲ့သူမဟုတ်ပါဘူး။
+တက္ကသိုလ်ရောက်ပြန်တော့လည်း သက်ထင်ကြိုက်နေတဲ့ လေပြေ့ကိုအတင်းလိုက်ကပ်ပြီး
+သက်ထင်အမြင်ကပ်အောင်လုပ်ပြပါတယ်။
+ဒါပေမဲ့ အဲဒီလိုလုပ်နေတာတွေက လေပြေ့ကိုပဲ တကယ်ချစ်လို့လား။ ဒါမှမဟုတ် သက်ထင်ကိုပဲ...
+"}
+,
+{
+"title" : "ကြီးကြီးကျယ်ကျယ်",
+"gen" : "comedy,heinwaiyan,myintmyat",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165741460/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165753700/d-1",
+"length" : "2hr 22min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/11TdHt05bqn68CH0jYldFvMN9y_WH5V74/view",
+"vol" : "ပရမ်းပတာတွေပါဟယ်ဆိုပြီး ခေတ်စားသွားတဲ့မြင့်မြတ်ရဲ့စကားလေးကို မှတ်မိကြဦးမယ်ထင်ပါတယ်။
+ဒီ ကြီးကြီးကျယ်ကျယ်ဟာသရုပ်ရှင်ထဲမှာ မြင့်မြတ်ပြောသွားတဲ့စကားလေးပါ။
+မိန်းကလေးလိုပဲနေချင်တဲ့မြင့်မြတ်နဲ့ ယောက်ျားလေးလိုပဲနေချင်တဲ့ ရွှေမှုံရတီတို့မောင်နှမ..
+တစ်ဖက်က ဟိန်းဝေယံတို့ အိချောပိုတို့မောင်နှမနဲ့တွေ့ကြတဲ့အခါ။
+သူတို့လေးယောက်ရဲ့ကြီးကြီးကျယ်ကျယ်ဆိုတာ ဘာများလဲ။
+"}
+,
+{
+"title" : "သိုက်ကလာတယ် စကားမပြောဘူး",
+"gen" : "comedy,naymin,kyawyeaung",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165742680/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165742692/d-1",
+"length" : "2hr 00min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1GksbslJncm0pFpubdstVzEwrxQX7yDwm/view",
+"vol" : "ပေါကြည်က နှင်းဖြူနဲ့နီးစပ်ချင်ပေမယ့် မနီးစပ်နိုင်တဲ့အခါ
+သူ့ကိုယ်သူ သိုက်ကလာတဲ့ သိုက်ဆက်လို့ပြောပြီး တစ်ရွာလုံးယုံကြည်အောင်လုပ်ကာ နှင်းဖြူနဲ့နီးစပ်အောင် ကြံပါတော့တယ်။
+မိန်းမကို တုန်နေအောင်ကြောက်ရတဲ့ သာမောင်နဲ့အောင်ခင်တို့တွေကလည်း ပေါကြည်နဲ့ကြံရာပါတွေဖြစ်ပါတယ်။
+"}
+,
+			
+			{
+"title" : "စေတန်ရဲ့ ကချေသည် ",
+"gen" : "drama,romance",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-zh85mM3WKaI/XzPRunU0S3I/AAAAAAAAZKI/HMydEpjBJP0aolGhBe60Ed0AI0LthYzDACLcBGAsYHQ/s1600/stykct.jpg",
+"image" : "https://1.bp.blogspot.com/-8-DLFCWkujQ/XzPRu7LNcjI/AAAAAAAAZKM/2DuCT4f756gYXIx8Hu0h18yJJdf6a87twCLcBGAsYHQ/s500/stykct1.jpg",
+"length" : "1:59 minutes",
+"qual" : "1080 full HD",
+"size" : "2 GB",
+"video" : "https://drive.google.com/file/d/1-5nTokGPgSAH2h367A5Hw8Ii8AxjqTLH/view",
+"vol" : "ယောမင်းက ပိုက်ဆံချမ်းသာတဲ့ လူကုံထံတစ်ယောက်ဖြစ်ပြီး မိဘမဲ့တစ်ကောင်ကြွက်ဖြစ်နေတဲ့ ကြွေရုပ်ကို ငယ်ငယ်လေးကတည်းက အနားမှာခေါ်ထားခဲ့ပါတယ်။ ကြွေရုပ်ကို အနားမှာခေါ်ထားပြီး သူ့ဝေယျာဝစ္စအားလုံးကို တစ်မျိုးပြီးတစ်မျိုးခိုင်း ကြွေရုပ်ကို စိတ်ဒုက္ခတွေပေးလွန်းတာကြောင့် ကြွေရုပ်က ယောမင်းဆီက အရမ်းလွတ်မြောက်ချင်နေပါတယ်။ ယောမင်းက လွတ်လပ်ခွင့်မပေးတဲ့အပြင် ကြွေရုပ်ကို သူနဲ့ပါအတင်းလက်ထပ်ခိုင်းပါတော့တယ်"}
+,
+{
+"title" : "ကျွန်မက နှင်းဆီပါမောင်",
+"gen" : "drama,romance",
+"date" : "2016",
+"cover" : "https://1.bp.blogspot.com/-n9buJVYdtCs/XzPRtxwTtSI/AAAAAAAAZJ8/C4yOxGNAnbUbAVoBgsLDRmzn8mv15e_1ACLcBGAsYHQ/s1600/kmhspm.jpg",
+"image" : "https://1.bp.blogspot.com/-VpN1VtctzEE/XzPRuY3XNDI/AAAAAAAAZKE/mW0kcnXstwIKr5vgxAHNrHxFwDWNgrd7wCLcBGAsYHQ/s500/kmhspm1.jpg",
+"length" : "2:23 minutes",
+"qual" : "1080 full HD",
+"size" : "2 GB",
+"video" : "https://drive.google.com/file/d/1Xngo4TjlSh11an3jrxV7KbKOFn8BI8hZ/view",
+"vol" : "ပိုက်ဆံချမ်းသာပြီး ငွေဂုဏ်မောက်နေတဲ့ ထားသခင်တစ်ယောက် နေ့ချင်းညချင်း ဆင်းရဲသွားတဲ့အခါ..ထားသခင်ရဲ့အိမ်မှာ အစေခံတစ်ယောက်အဖြစ် နေခဲ့ရတဲ့ ခွန်းသတစ်ယောက် ကံအကျိုးပေးကြောင့် ချမ်းသာလာတဲ့အခါ..ထားသခင်နဲ့ခွန်းသတို့ရဲ့ အားပြိုင်မှုတွေ အမုန်းတွေ အချစ်တွေကို ကြည့်ရှုခံစားရမယ့် ကျွန်မက နှင်းဆီပါမောင်..."}
+,
+{
+"title" : "ကမ္ဘာကျော်ရွာ ",
+"gen" : "comedy",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-L55gJTnrNaQ/XzPRt9dmcMI/AAAAAAAAZKA/s4tZoufZUTETn7lJB2V8Hsd_qaoyUY1PQCLcBGAsYHQ/s1600/klbkv.jpg",
+"image" : "https://1.bp.blogspot.com/-l9N65X7izhI/XzPSCXTEe3I/AAAAAAAAZKo/sVmgHAuAb6gfDY_XU7V6pGOTaIgk6dDyACLcBGAsYHQ/s500/klbkv1.jpg",
+"length" : "1:58 minutes",
+"qual" : "1080 full HD",
+"size" : "3 GB",
+"video" : "https://drive.google.com/file/d/1RSzwqnKkKqFodt4hAn7UbCV5tzgf5bxk/view",
+"vol" : "နေတိုးနဲ့ကျော်ကျော်ဗိုတို့ရဲ့အသစ်စက်စက်ရုံတင်ကားကြီးတစ်ကားဖြစ်ပါတယ်။ ရုပ်ရှင်မင်းသားဖြစ်ချင်လှတဲ့သာကျော်တစ်ယောက် အိုက်တင်လေ့ကျင့်ရင်းနဲ့ဘယ်လိုတွေတောင်ရယ်ရမလဲဆိုတာကို ကမ္ဘာကျော်ရွာမှာဆက်ကြည့်လိုက်တော့နော်"}
+,
+{
+"title" : "တာတေကြီး ",
+"gen" : "horror",
+"date" : "2017",
+"cover" : "https://1.bp.blogspot.com/-JSgslRo9E4I/XzPRvCSwN8I/AAAAAAAAZKQ/hzssRwv3NAwNVaxNqrR5VUyp7qmiICe-wCLcBGAsYHQ/s1600/ttg.jpg",
+"image" : "https://1.bp.blogspot.com/-kOjOwsGPS0c/XzPRvfC41HI/AAAAAAAAZKU/qbdzA78JRIM25-JB0XLm44l9GvK6XZS2QCLcBGAsYHQ/s500/ttg1.jpg",
+"length" : "2:21 mW0kcnXstwIKr5vgxAHNrHxFwDWNgrd7wCLcBGAsYHQ/s500/kmhspm1",
+"qual" : "1080 full HD",
+"size" : "3 GB",
+"video" : "https://drive.google.com/file/d/1ObNOXUjonhl2EOrcu-kv8YuPEmG-Ka1d/view",
+"vol" : "မမတာဆိုပြီး နာမည်ကြီးခဲ့တဲ့ နေတိုးရဲ့တာတေကြီးရုပ်ရှင်ကားဖြစ်ပါတယ်။ သရဲခြောက်တဲ့ခြံကြီးထဲမှာမှ ဘောလုံးသွားကန်မိပြီး အိမ်ပြန်ရောက်တာနဲ့ ထူးထူးဆန်းဆန်းဖြစ်ရပ်တွေကြုံလာရပါတယ်။ ဘယ်ပယောဂဆရာမှ မနိုင်လို့ လက်မြှောက်အရှုံးပေးလိုက်ရတဲ့ ဝိညာဉ်တွေ ဘာတွေဆက်ဖြစ်ကြမလဲ။"}
+,
+
+{
+"title" : "ငယ်ကျွန်",
+"gen" : "lumin,aungyelin,drama",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165609626/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165726716/d-1",
+"length" : "2hr 03min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1gz21UNrV4mreYemn0dhEVFMQb1OOUbgX/view",
+"vol" : "မျိုးရိုးဂုဏ်မြင့်မားပြီး ကိုယ်နဲ့အဆင့်အတန်းမတူတဲ့သူတွေကို တန်ဖိုးမထားတတ်တဲ့ မိသားတစ်စုကမွေးဖွားလာတဲ့
+တစ်ဦးတည်းသောသား မောင်မောင်နဲ့မဟုတ်မခံ ခွန်းတုံ့ပြန် လက်တုံ့ပြန်တတ်တဲ့ ယိမ်းတို့အကြောင်းဖြစ်ပါတယ်။
+မောင်မောင့်အမေကို လက်စားချေချင်တဲ့ ယိမ်းတစ်ယောက် ဘယ်လိုအကွက်တွေရွှေ့ဦးမလဲဆိုတာ ငယ်ကျွန် ရုပ်ရှင်ဇာတ်ကားကြီးမှာကြည့်လိုက်ပါ။
+"}
+,
+		{
+"title" : "ကယ်ရီယာ",
+"gen" : "nyihtutkhaung,action",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-g7rB69LzFew/XzFz_gFo37I/AAAAAAAAYpM/y5soi-ScNMAQPHKvEzmfMdrRUnPQ42gvQCLcBGAsYHQ/s5000/%25E1%2580%2580%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25AE%25E1%2580%259A%25E1%2580%25AC.jpg",
+"image" : "https://1.bp.blogspot.com/-teRPu9xQyyQ/XzF0ASKbO7I/AAAAAAAAYpQ/aOAjRijDc4csQoYtQsspcgb8sZ8zoiXcgCLcBGAsYHQ/s5000/%25E1%2580%2580%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25AE%25E1%2580%259A%25E1%2580%25AC1.jpg",
+"length" : "1hr 32min",
+"qual" : "720p FullHD",
+"size" : "2 GB",
+"video" : "https://drive.google.com/file/d/18zrj9NnpRHmkZwyjVKjpZGqtnN0gGlic/view",
+"vol" : ""}
+,
+			
+{
+"title" : "ဆင်ဝင်စား",
+"gen" : "nayhtoonaing,drama,country",
+"date" : "2019",
+"cover" : "https://i.ytimg.com/vi/DPSpexpC9Ls/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDQGXo10DVkPHJPQbyaY5UEqmZ52A",
+"image" : "https://i.ytimg.com/vi/DPSpexpC9Ls/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDQGXo10DVkPHJPQbyaY5UEqmZ52A",
+"length" : "1hr 31min",
+"qual" : "720p FullHD",
+"size" : "582 MB",
+"video" : "https://www.youtube.com/watch?v=DPSpexpC9Ls",
+"vol" : "ဆင်ဝင်စား
+
+သရုပ်ဆောင်များ
+
+နေထူးနိုင်၊ စစ်နိုင်၊ နေနော်၊ ဆုရွှန်းလဲ့"}
+,
+
+{
+"title" : "ဝိညာဉ်စိမ်း",
+"gen" : "myintmyat,kawthu,yanaung,heinwaiyan,kyawkyawbo,minmawkon,minmawcon,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165724341/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165735537/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "တစိမ့်စိမ့်နဲ့ကြောက်ရမယ့်သရဲကားလည်းဖြစ်သလို ဝါရင့်သရုပ်ဆောင်တွေဖြစ်ကြတဲ့
+ကျော်သူ၊ရန်အောာင်၊မင်းမော်ကွန်း၊ကျော်ကျော်ဗို၊မြင့်မြတ်၊ဟိန်းဝေယံနဲ့စိုးမြတ်သူဇာတို့လည်း ပါဝင်ထားကြပါသေးတယ်။
+ကိုသိန်း ဆုံးပါးသွားတော့ ကိုသိန်းရဲ့ဝိညာဉ်ကိုပြန်ခေါ်တဲ့အခါမှာ မတော်တဆနဲ့ တခြားဝိညာဉ်စိမ်းတစ်ခုကပါ လိုက်လာတဲ့အခါမှာတော့ ထိတ်လန့်ခြောက်ခြားစရာတွေဖြစ်လာပါတော့တယ်။"}
+,
+		{
+"title" : "မုဒြာခေါ်သံ ",
+"gen" : "Zan Khe,drama,country",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-pfg2UViZAvs/XzFz9s5Cg5I/AAAAAAAAYo0/p3wQQxWBBYsTKVNWRQnf2s2GZfTtdguCwCLcBGAsYHQ/s5000/MUDRAs%2BCalling.jpg",
+"image" : "https://1.bp.blogspot.com/-XjrLd84DZvY/XzFz-iMcz_I/AAAAAAAAYpA/PCsAWjBgEqwIXHfQkpOvnGDo-PVcJ5G6gCLcBGAsYHQ/s320/MUDRAs%2BCalling1.jpg",
+"length" : "1hr 46min",
+"qual" : "720p FullHD",
+"size" : "420 MB",
+"video" : "https://drive.google.com/file/d/1p4h_ayu82Ukq9sv1pHlRoTe_O026cbZX/view",
+"vol" : "ကိုယ့်ရဲ့မွေးရပ်မြေနဲ့ အသက်နှစ်နှစ်သား အရွယ်ကတည်းက ခွဲခွာခဲ့ရပြီး ပထမဦးဆုံးအကြိမ် ပြန်ခြေချမိတဲ့ အချိန်မှာ အရာရာ အသစ်တွေချည်း ဖြစ်နေပြီး ကိုယ့်ရဲ့ဇစ်မြစ်ကို ပြန်တူးဖော်လိုနေတဲ့ အမျိုးသား ဂျေဒန် နဲ့ သူ့ကို အစစ အရာ ကူညီပေးတဲ့ ယဉ်ကျေးမှုတက္ကသိုလ်ဆင်း အမျိုးသမီးငယ်လေး နှင်းတို့ရဲ့အကြောင်းကို ပုံဖော်ရိုက်ကူးထားတာဖြစ်ပါတယ်။
+
+မြန်မာနိုင်ငံသား ဂျေဒန်တစ်ယောက်ဟာ ငယ်စဉ်ကတည်းက မိဘတွေ ဆုံးသွားတဲ့အတွက်ကြောင့် မွေးစားတဲ့ မိဘများနဲ့အတူနိုင်ငံခြားမှာ အခြေချနေထိုင်တာ ဖြစ်ပါတယ်။ သူ့အသက် ၃၀ အရွယ်မှာတော့ သူ့ကျောင်းမှာ ဘွဲ့အတွက် ပြင်ဆင်မယ့် စာတမ်းရေးဖို့ မြန်မာနိုင်ငံရဲ့ ဂီတနဲ့ယဉ်ကျေးမှု အကြောင်းလေ့လာဖို့ရောက်လာခဲ့ပါတယ်။ ၂၈ ရက်သာ ဗီဇာသက်တမ်းရတဲ့ သူ့အတွက် သူသွားလေ့လာမယ့် ပုဂံယဉ်ကျေးမှုနယ်မြေနဲ့မန ၱလေးကို သွားဖို့ နှင်းက တိုးဂိုက်တစ်ယောက်အနေနဲ့ကူညီပြီး လိုက်ပို့ပေးတာပါ။
+
+သူတို့သွားရောက်ခဲ့တဲ့ ပုဂံ ၊ မန္တလေး နဲ့ အင်းလေး စတဲ့ မြန်မာ့ယဉ်ကျေးမှုနယ်မြေတွေကို ရိုက်ထားတဲ့ ရိုက်ကွက်တွေကလဲ အံ့မခန်းပါပဲ။ ကင်မရာအယူအဆတွေကြောင့် တစ်ချိန်တစ်ခါက စက်ဘီးမြို့တော်လို့ တင်စားခေါ်ဝေါ်ရတဲ့ မန္တလေးရဲ့ အလှအပတွေကို တကယ်ပဲ လွမ်းဆွတ်အောက်မေ့ဖွယ်ဖြစ်လွန်းလှပါတယ်။...."}
+,
+		{
+"title" : "သရဲမ ဘီလူးမနဲ့ မိန်းမပျို ",
+"gen" : "A Lin Yaung,drama,country",
+"date" : "2017",
+"cover" : "https://1.bp.blogspot.com/-ljLWnXPCJjc/XzFz9uNIomI/AAAAAAAAYo8/f2CMUya7pbcWdK1gfgR3Xqt5qgdNfprdgCLcBGAsYHQ/s5000/3girls.jpg",
+"image" : "https://1.bp.blogspot.com/-LJDM7DXHG2Q/XzFz9vJm73I/AAAAAAAAYo4/23vYuLJdR4MYk5OACWK9YTf2ineqM8d6QCLcBGAsYHQ/s320/3girls1.jpeg",
+"length" : "2hr 25min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1L1UYAxBkxSIbd4tP91OWdEzEYUfOccAx/view",
+"vol" : "ကွီခေါင်ပွင့် ၊ မိုးစက်၊ ရွှေရုပ် ဆိုတဲ့ မိန်းမပျိုသုံးယောက်နဲ့ ကြည်ညို ဆိုတဲ့
+		ကောင်လေးတစ်ယောက်ရဲ့ တွေ့ဆုံမှု တွေက ပျော်ရွှင်ကြည့်နူးစရာ နာကျည်းမုန်းတီးဖွယ်ရာ 
+		ငိုကြွေးထိတ်လန့်ဖွယ်ရာ စတဲ့ရသမျိုးစုံပေးစွမ်းနိုင်တဲ့ သရဲမဘီလူးမနဲ့မိန်းမပျို ဆိုတဲ့ 3Girls ဇာတ်ကားကို
+		ငွေရောင်ပိတ်ကားပေါ်မှာကြည့်ရှုခံစားနိုင်ပါပြီး။းနေထူးနိုင်ပရိသတ်တွေအကြိုက်တွေ့မယ့် အက်ရှင်ဇာတ်ကားသစ်လေးတစ်ကားဖြစ်ပါတယ်။...."}
+,
+{
+"title" : "မဟုတ်မခံဖိုးမှန်",
+"gen" : "nayhtoonaing,drama,country",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165731072/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165753865/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "ကွီးနေထူးနိုင်ပရိသတ်တွေအကြိုက်တွေ့မယ့် အက်ရှင်ဇာတ်ကားသစ်လေးတစ်ကားဖြစ်ပါတယ်။
+  
+ဖိုးမှန်ဆိုတဲ့လူတစ်ယောက် သူ့ကိုမဟုတ်မမှန်လာလုပ်ရင် ဘယ်လိုတုံ့ပြန်သလဲဆိုတာ..."}
+,
+{
+"title" : "ရီးစားတစ်ဝမ်းကွဲ",
+"gen" : "saisai,comedy,drama",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165726330/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165732973/d-1",
+"length" : "2hr 00min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1EyWfswPD8u_QutPwwkevTRH2_1O1X-AD/view",
+"vol" : "စိုင်းစိုင်းနဲ့ဖွေးဖွေးတို့ရဲ့ ဟာသရုပ်ရှင်ကားအသစ်လေးဖြစ်ပါတယ်။
+နိုင်ငံခြားမှာပဲ ချစ်သူနဲ့အတူအခြေချချင်တဲ့ မင်းခန့်ထည်ဝါက အဘိုးဖြစ်သူရဲ့စကားကို မလွန်ဆန်နိုင်လို့သာ မြန်မာပြည်ကိုပြန်လာခဲ့ရပါတယ်။
+  
+အိတုန်က အလှပြင်ဆိုင်လေးဖွင့်ချင်ပေမယ့် ငွေအရင်းအနှီးမရှိတဲ့အပြင် အမေဖြစ်သူရဲ့ထမင်းဆိုင်မှာပဲ ကူလုပ်နေရတာကို ငြီးငွေ့လာပါတယ်။
+သူဌေးသားနဲ့ဆင်းရဲတဲ့ကောင်မလေးတို့ရဲ့ အချစ်ဇာတ်လမ်းဆိုပေမယ့် သာမန်နဲ့မတူတဲ့ပုံစံမျိုးလေးကို ကြည့်ရှုခံစားရမှာပါ။"}
+,
+		{
+"title" : "လက်စားချေနတ်သမီး",
+"gen" : "Phyo Ngwe Soe,drama",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-pBcl7IFTvb4/XzF0SirldqI/AAAAAAAAYsY/k2v19H3rh-8hLOTvsfuh01df7jh8jYLhwCLcBGAsYHQ/s5000/%25E1%2580%259C%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2585%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2581%25E1%2580%25BB%25E1%2580%25B1%25E1%2580%2594%25E1%2580%2590%25E1%2580%25BA%25E1%2580%259E%25E1%2580%2599%25E1%2580%25AE%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-uOWwFdaiPDU/XzF0S7JZpfI/AAAAAAAAYsc/GkP_gnfG06wYzUO6AzWEfyknpokiG7PcgCLcBGAsYHQ/s320/%25E1%2580%259C%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2585%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2581%25E1%2580%25BB%25E1%2580%25B1%25E1%2580%2594%25E1%2580%2590%25E1%2580%25BA%25E1%2580%259E%25E1%2580%2599%25E1%2580%25AE%25E1%2580%25B81.jpg",
+"length" : "1hr 36min",
+"qual" : "1080p FullHD",
+"size" : "1.0 GB",
+"video" : "https://drive.google.com/file/d/1cegiMIJjjOVPx9dYWA94ARD0tCVyTvs0/view",
+"vol" : "ချစ်သူရည်းစားနဲ့ သူငယ်ချင်း  ဘယ်အရာကို ပိုဦးစားပေးသင့်လဲ
+
+မိန်းခလေးအချင်းချင်း မနာလို သဝန်တိုမှုတွေကြားမှာ ကောင်လေးတစ်ယောက် ဘယ်လိုတွေ ဝေခွဲမရ ဖြစ်မလဲဆိုတာ ပဟေဠိ ဆန်ဆန် ကြည့်ရှုရမယ့်  “လက်စားချေနတ်သမီး ”"}
+,
+	{
+"title" : "သစ္စာပြိုင်ရှင်းတမ်း",
+"gen" : "heinwaiyan,drama",
+"date" : "2015",
+"cover" : "https://1.bp.blogspot.com/-xwK7S4HerWQ/XzF0VTjz5CI/AAAAAAAAYs4/VD-zylpLHZsOiXuBg8ktbWNgdbMHFkJUgCLcBGAsYHQ/s5000/%25E1%2580%259E%25E1%2580%2585%25E1%2580%25B9%25E1%2580%2585%25E1%2580%25AC%25E1%2580%2595%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2584%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2590%25E1%2580%2599%25E1%2580%25BA%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-fAq1YL_Ae3E/XzF0VwX3qXI/AAAAAAAAYs8/lXPwlyqWChs-nnratLeHebGItYU3B2d-wCLcBGAsYHQ/s5000/%25E1%2580%259E%25E1%2580%2585%25E1%2580%25B9%25E1%2580%2585%25E1%2580%25AC%25E1%2580%2595%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2584%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2590%25E1%2580%2599%25E1%2580%25BA%25E1%2580%25B81.jpg",
+"length" : "1hr 45min",
+"qual" : "1080p FullHD",
+"size" : "843 MB",
+"video" : "https://drive.google.com/file/d/1_dvqv42HO698gQsBIvKV0yDxwF-9-LUg/view",
+"vol" : ""}
+,
+		
+{
+"title" : "ေဟာက်စား",
+"gen" : "myintmyat,kyawkyawbo,joker,khinhlaing,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165726924/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165732974/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "မြင့်မြတ်၊ ကျော်ကျော်ဗို၊ ဂျိုကာနဲ့ခင်လှိုင်တို့ရဲ့ဝက်ဝက်ကွဲအောင်မြင်ခဲ့တဲ့ ဟောက်စားကားကြီးဖြစ်ပါတယ်။
+သူများတွေကြောက်အောင် တကယ့်လူမိုက်တွေလို ဟန်ဆောင်နေကြတဲ့ သူတို့ သူတို့တွေ..
+သူက ကိုယ့်ကိုကြောက် ကိုယ်က သူ့ကိုကြောက်နဲ့ အလွဲတွေကြားထဲက သူတို့ရဲ့ဟာသ.."}
+,
+{
+      "image" : "http://104275-c.ooyala.com/52c2JxZTE6r5Qwt8wbPYiR4Mf8yW9VSF/promo345720568",
+      "cover" : "http://104275-c.ooyala.com/52c2JxZTE6r5Qwt8wbPYiR4Mf8yW9VSF/promo345720568",
+      "length" : "43:04",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "133",
+      "title" : "အတူပျံသန်​းစို့ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/52c2JxZTE6r5Qwt8wbPYiR4Mf8yW9VSF/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "ဒါရိုက်တာ- ကိုဇော် (အရုဏ်ဦး) ရိုက်ကူးပြီး ဟိန်းဝေယံ၊ နဝရတ် တို့သရုပ်ဆောင်ထားတဲ့ \"အတူပျံသန်းစို့\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/h4c2JxZTE64j_y3dROv_RTyn1B9qCoiL/promo345720662",
+	  "cover" : "http://104275-c.ooyala.com/h4c2JxZTE64j_y3dROv_RTyn1B9qCoiL/promo345720662",
+      "length" : "42:48",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "132",
+      "title" : "အတူပျံသန်​းစို့ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/h4c2JxZTE64j_y3dROv_RTyn1B9qCoiL/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "ဒါရိုက်တာ- ကိုဇော် (အရုဏ်ဦး) ရိုက်ကူးပြီး ဟိန်းဝေယံ၊ နဝရတ် တို့သရုပ်ဆောင်ထားတဲ့ \"အတူပျံသန်းစို့\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/J3ZHBxZTE69ffhcjT35Ssi-WcSiaRe9E/promo345817476",
+	  "cover" : "http://104275-c.ooyala.com/J3ZHBxZTE69ffhcjT35Ssi-WcSiaRe9E/promo345817476",
+      "length" : "53:09",
+      "gen" : "pyoneplay","date" : "2019","path" : "gh",
+      "size" : "164",
+      "title" : "ဒီဇင်​ဘာရဲ့ညတစ်​ည ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gh",
+      "video" : "http://104275-c.ooyala.com/J3ZHBxZTE69ffhcjT35Ssi-WcSiaRe9E/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ကျော်ဗို၊ ခိုင်နှင်းဝေ၊ စူးရှနိုင်) [ဒါရိုက်တာ- စိုးကျော်ဆန်း] တို့ပါဝင်ရိုက်ကူးတင်ဆက်ထားသော \"ဒီဇင်ဘာရဲ့ညတစ်ည\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/Q5bXBxZTE6Q4PKW3A1TEQZ-CW_Z378PI/promo345817495",
+	  "cover" : "http://104275-c.ooyala.com/Q5bXBxZTE6Q4PKW3A1TEQZ-CW_Z378PI/promo345817495",
+      "length" : "60:02",
+      "gen" : "pyoneplay","date" : "2019","path" : "gh",
+      "size" : "185",
+      "title" : "ဒီဇင်​ဘာရဲ့ညတစ်​ည ဇတ်​သိမ်းပိုင်​း",
+     "qual" : "SD", "vid" : "gh",
+      "video" : "http://104275-c.ooyala.com/Q5bXBxZTE6Q4PKW3A1TEQZ-CW_Z378PI/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ကျော်ဗို၊ ခိုင်နှင်းဝေ၊ စူးရှနိုင်) [ဒါရိုက်တာ- စိုးကျော်ဆန်း] တို့ပါဝင်ရိုက်ကူးတင်ဆက်ထားသော \"ဒီဇင်ဘာရဲ့ညတစ်ည\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/hqYzJyZTE6ameqihdPXBnMzJ4a7JkElI/promo345957476",
+	  "cover" : "http://104275-c.ooyala.com/hqYzJyZTE6ameqihdPXBnMzJ4a7JkElI/promo345957476",
+      "length" : "43:18",
+      "gen" : "pyoneplay","date" : "2019","path" : "hh",
+      "size" : "134",
+      "title" : "အားလုံးသာသာယာယာပဲ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "hh",
+      "video" : "http://104275-c.ooyala.com/hqYzJyZTE6ameqihdPXBnMzJ4a7JkElI/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကောင်းခန့်၊ သက်မွန်မြင့်) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး ဒါရိုက်တာ - မိုက်တီး ရိုက်ကူးထားတဲ့ ''အားလုံးသာသာ ယာယာပဲ"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/VuYzJyZTE6cVQGwVs2RZ_TEhZiMvXP4K/promo345957546",
+	  "cover" : "http://104275-c.ooyala.com/VuYzJyZTE6cVQGwVs2RZ_TEhZiMvXP4K/promo345957546",
+      "length" : "40:05",
+      "gen" : "pyoneplay","date" : "2019","path" : "hh",
+      "size" : "124",
+      "title" : "အားလုံးသာသာယာယာပဲ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "hh",
+      "video" : "http://104275-c.ooyala.com/VuYzJyZTE6cVQGwVs2RZ_TEhZiMvXP4K/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကောင်းခန့်၊ သက်မွန်မြင့်) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး ဒါရိုက်တာ - မိုက်တီး ရိုက်ကူးထားတဲ့ ''အားလုံးသာသာ ယာယာပဲ"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/5oOWRyZTE6Id_4mf4O4h6pV1c7O4dF2F/promo345976597",
+	  "cover" : "http://104275-c.ooyala.com/5oOWRyZTE6Id_4mf4O4h6pV1c7O4dF2F/promo345976597",
+      "length" : "50:58",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "158",
+      "title" : "မှန်​ရာကိုသစ္စာဆိုပါမည်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/5oOWRyZTE6Id_4mf4O4h6pV1c7O4dF2F/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နိုင်းနိုင်း၊ ထွန်းအိန္ဒြာဗို၊ ကိုပေါက်၊ ရွှေရည်မိုးဦး) [ဒါရိုက်တာ- မိုးခြိမ်းညံ] တို့ပါဝင်ရိုက်ကူးတင်ဆက်ထားသော \"မှန်ရာကို...သစ္စာဆိုပါမည်\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/tiZGRyZTE6imRyP6A_norOaZQeyZZ7Q0/promo345976559",
+	  "cover" : "http://104275-c.ooyala.com/tiZGRyZTE6imRyP6A_norOaZQeyZZ7Q0/promo345976559",
+      "length" : "55:21",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "171",
+      "title" : "မှန်​ရာကိုသစ္စာဆိုပါမည်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/tiZGRyZTE6imRyP6A_norOaZQeyZZ7Q0/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နိုင်းနိုင်း၊ ထွန်းအိန္ဒြာဗို၊ ကိုပေါက်၊ ရွှေရည်မိုးဦး) [ဒါရိုက်တာ- မိုးခြိမ်းညံ] တို့ပါဝင်ရိုက်ကူးတင်ဆက်ထားသော \"မှန်ရာကို...သစ္စာဆိုပါမည်\""
+    },
+
+{
+"title" : "ဧဒင်သို့",
+"gen" : "romance,love,drama,naytoe,moehayko",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-p0YM3-YHoDg/XzKDceRllOI/AAAAAAAAY9k/KC59u2QvtnsC2A39g3mG4ubHIgJXzDBsACLcBGAsYHQ/s5000/edinLong.jpeg",
+"image" : "https://1.bp.blogspot.com/-Unwk5gNgT34/XzKDcKir1OI/AAAAAAAAY9g/fOr7Td_rYWArEmgLNBuxDOewUHEg4JQAgCLcBGAsYHQ/s5000/edinSmall.jpeg",
+"length" : "2:02:42",
+"qual" : "‪1,280 x 720‬",
+"size" : "574 MB",
+"video" : "https://drive.google.com/file/d/1CFrgK7gIlBzRq-KNl0BBc09Nv3tI6nX0/view",
+"vol" : "နေတိုး၊ မိုးဟေကို"
+}
+,
+
+ {
+      "image" : "http://104275-c.ooyala.com/Y4dG9yZTE6CghsmYLZVlE9PSB8UwI6bA/promo346062970",
+	  "cover" : "http://104275-c.ooyala.com/Y4dG9yZTE6CghsmYLZVlE9PSB8UwI6bA/promo346062970",
+      "length" : "46:55",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "145",
+      "title" : "အာဃာတပျိုးခင်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/Y4dG9yZTE6CghsmYLZVlE9PSB8UwI6bA/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ရဲအောင်၊ နေဆန်း၊ ကျော်ကျော်၊ နဝရတ်၊ အေသင်ချိုဆွေ) [ဒါရိုက်တာ- ကိုပေါက်] တို့ပါဝင်ရိုက်ကူးတင်ဆက်ထားသော \"အာဃာတပျိုးခင်း\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/9jdm9yZTE6NezGgXUz52egLsjcyYZitf/promo346070118",
+	  "cover" : "http://104275-c.ooyala.com/9jdm9yZTE6NezGgXUz52egLsjcyYZitf/promo346070118",
+      "length" : "56:13",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "174",
+      "title" : "အာဃာတပျိုးခင်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/9jdm9yZTE6NezGgXUz52egLsjcyYZitf/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ရဲအောင်၊ နေဆန်း၊ ကျော်ကျော်၊ နဝရတ်၊ အေသင်ချိုဆွေ) [ဒါရိုက်တာ- ကိုပေါက်] တို့ပါဝင်ရိုက်ကူးတင်ဆက်ထားသော \"အာဃာတပျိုးခင်း\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/12cHVzZTE6P_-BDR-p2x4xhoM1FbCrwL/promo346315014",
+	  "cover" : "http://104275-c.ooyala.com/12cHVzZTE6P_-BDR-p2x4xhoM1FbCrwL/promo346315014",
+      "length" : "51:39",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "160",
+      "title" : "သိင်္ဂါရသီချင်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/12cHVzZTE6P_-BDR-p2x4xhoM1FbCrwL/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "\"သိင်္ဂါရသီချင်း\" (ဖြိုးငွေစိုး၊ ခင်လေးနွယ်) [ဒါရိုက်တာ- ညိုမင်းလွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/tsdHVzZTE6afgPngUnqU65EYEktuW6Rf/promo346315027",
+	  "cover" : "http://104275-c.ooyala.com/tsdHVzZTE6afgPngUnqU65EYEktuW6Rf/promo346315027",
+      "length" : "53:03",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "164",
+      "title" : "သိင်္ဂါရသီချင်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/tsdHVzZTE6afgPngUnqU65EYEktuW6Rf/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "\"သိင်္ဂါရသီချင်း\" (ဖြိုးငွေစိုး၊ ခင်လေးနွယ်) [ဒါရိုက်တာ- ညိုမင်းလွင်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/U5NGl0ZTE6c3Y0Fd1JR3pGAyO8As5OvU/promo346492065",
+	  "cover" : "http://104275-c.ooyala.com/U5NGl0ZTE6c3Y0Fd1JR3pGAyO8As5OvU/promo346492065",
+      "length" : "60:17",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "186",
+      "title" : "ဆန္ဒ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/U5NGl0ZTE6c3Y0Fd1JR3pGAyO8As5OvU/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေမျိုးအောင်၊ ဆုပန်ထွာ) [ဒါရိုက်တာ- ကျော်ဇောလင်း၏(အေတွးပုံရိပ်)]"
+    },
+  {
+      "image" : "http://104275-c.ooyala.com/ZhN2l0ZTE6SsAZTEvx2V0KDRVir4t9L6/promo346492222",
+	  "cover" : "http://104275-c.ooyala.com/ZhN2l0ZTE6SsAZTEvx2V0KDRVir4t9L6/promo346492222",
+      "length" : "58:44",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "181",
+      "title" : "ဆန္ဒ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/ZhN2l0ZTE6SsAZTEvx2V0KDRVir4t9L6/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေမျိုးအောင်၊ ဆုပန်ထွာ) [ဒါရိုက်တာ- ကျော်ဇောလင်း၏(အေတွးပုံရိပ်)]"
+ },
+
+{
+"title" : "ချိုချစ်ခါး",
+"gen" : "naytoe,thetmommyint,drama,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-9wYg7zOoojE/XzPXuXcfHJI/AAAAAAAAZME/qEWZKRRKbj8OTvcjrWqDYTqUbp5-Hw-iACLcBGAsYHQ/s0/ChoChitLong.jpg",
+"image" : "https://1.bp.blogspot.com/-wxHyo-XSbJk/XzPXuL3PRTI/AAAAAAAAZL8/CLEhazNkJR0F8E9fGhwiXdVZrldtygE9QCLcBGAsYHQ/s0/ChoChitSmall.jpg",
+"length" : "2:08:54",
+"qual" : "",
+"size" : "1 GB",
+"video" : "https://drive.google.com/file/d/1s0QVj0yTEk4eDJX81bvPu4VNEozH09Ob/view",
+"vol" : "နေတိုး၊သက်မွန်မြင့်"
+}
+,
+{
+      "image" : "http://104275-c.ooyala.com/FjY2p0ZTE68QyLAym6EqjjYYf7LnCTcQ/promo346499291",
+	  "cover" : "http://104275-c.ooyala.com/FjY2p0ZTE68QyLAym6EqjjYYf7LnCTcQ/promo346499291",
+      "length" : "43:01",
+      "gen" : "pyoneplay","date" : "2019","path" : "မမ",
+      "size" : "132",
+      "title" : "အချစ်​စစ်​ပြိုင်​ပွဲ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "မမ",
+      "video" : "http://104275-c.ooyala.com/FjY2p0ZTE68QyLAym6EqjjYYf7LnCTcQ/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "ဒါရိုက်​တာ - ကြည်ဖြူသျှင် ရိုက်ကူးပြီး အောင်ရဲလင်း၊ ခိုင်သင်းကြည်၊ ရတနာပုံ တို့ပါဝင်သရုပ်ဆောင်ထားတဲ့ အချစ်စစ်ပြိုင်ပွဲ"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/FlY2p0ZTE6HcENtphcSUNIOuLeD3T8Fg/promo346499314",
+	  "cover" : "http://104275-c.ooyala.com/FlY2p0ZTE6HcENtphcSUNIOuLeD3T8Fg/promo346499314",
+      "length" : "46:16",
+      "gen" : "pyoneplay","date" : "2019","path" : "မမ",
+      "size" : "143",
+      "title" : "အချစ်​စစ်​ပြိုင်​ပွဲ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "မမ",
+      "video" : "http://104275-c.ooyala.com/FlY2p0ZTE6HcENtphcSUNIOuLeD3T8Fg/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "ဒါရိုက်​တာ - ကြည်ဖြူသျှင် ရိုက်ကူးပြီး အောင်ရဲလင်း၊ ခိုင်သင်းကြည်၊ ရတနာပုံ တို့ပါဝင်သရုပ်ဆောင်ထားတဲ့ အချစ်စစ်ပြိုင်ပွဲ"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/BwYmp0ZTE6dh8XNSHU9ratG8JbbYDM_C/promo346499340",
+	  "cover" : "http://104275-c.ooyala.com/BwYmp0ZTE6dh8XNSHU9ratG8JbbYDM_C/promo346499340",
+      "length" : "43:52",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "135",
+      "title" : "​အေတီအမ်​ဟာကာ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/BwYmp0ZTE6dh8XNSHU9ratG8JbbYDM_C/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "ဒါရိုက်တာ - ကိုဇော် (အရုဏ်ဦး) ရိုက်ကူးပြီး ခန့်စည်သူ၊ မိုးဟေကို၊ ဖူးပွင့်သခင် တို့ပါဝင်သရုပ်ဆောင်ထားတဲ့ အေတီအမ် ဟာကာ"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/N2Ymp0ZTE6qnyZssucDFAF72tqVhgc0J/promo346499363",
+	  "cover" : "http://104275-c.ooyala.com/N2Ymp0ZTE6qnyZssucDFAF72tqVhgc0J/promo346499363",
+      "length" : "42:33",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "131",
+      "title" : "​အေတီအမ်​ဟာကာ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/N2Ymp0ZTE6qnyZssucDFAF72tqVhgc0J/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "ဒါရိုက်တာ - ကိုဇော် (အရုဏ်ဦး) ရိုက်ကူးပြီး ခန့်စည်သူ၊ မိုးဟေကို၊ ဖူးပွင့်သခင် တို့ပါဝင်သရုပ်ဆောင်ထားတဲ့ အေတီအမ် ဟာကာ"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/toaXF0ZTE6qWKg7tBC-0BNNlpLJit1KG/promo346566145",
+	  "cover" : "http://104275-c.ooyala.com/toaXF0ZTE6qWKg7tBC-0BNNlpLJit1KG/promo346566145",
+      "length" : "60:50",
+      "gen" : "pyoneplay","date" : "2019","path" : "df",
+      "size" : "188",
+      "title" : "သတ္တိခွန်​အား​ပေးသနားပါ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "df",
+      "video" : "http://104275-c.ooyala.com/toaXF0ZTE6qWKg7tBC-0BNNlpLJit1KG/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ပြေတီဦး၊ မင်းရဲဆက်၊ စိုးမြတ်သူဇာ၊ နဝရတ်၊ ရီရီပွင့်ဖြူ) [ဒါရိုက်တာ- ကိုဇော်(အရုဏ်ဦး)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/pmcXF0ZTE6JLhTkhTSvMUwH3gM1KMEyS/promo346565394",
+	  "cover" : "http://104275-c.ooyala.com/pmcXF0ZTE6JLhTkhTSvMUwH3gM1KMEyS/promo346565394",
+      "length" : "59:42",
+      "gen" : "pyoneplay","date" : "2019","path" : "df",
+      "size" : "185",
+      "title" : "သတ္တိခွန်​အား​ပေးသနားပါ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "df",
+      "video" : "http://104275-c.ooyala.com/pmcXF0ZTE6JLhTkhTSvMUwH3gM1KMEyS/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ပြေတီဦး၊ မင်းရဲဆက်၊ စိုးမြတ်သူဇာ၊ နဝရတ်၊ ရီရီပွင့်ဖြူ) [ဒါရိုက်တာ- ကိုဇော်(အရုဏ်ဦး)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/UyeHF0ZTE6fd8DDvO0veLW_zQqtopdGp/promo346566276",
+	  "cover" : "http://104275-c.ooyala.com/UyeHF0ZTE6fd8DDvO0veLW_zQqtopdGp/promo346566276",
+      "length" : "45:18",
+      "gen" : "pyoneplay","date" : "2019","path" : "dd",
+      "size" : "140",
+      "title" : "အမုန်​းရှင်​းတမ်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "dd",
+      "video" : "http://104275-c.ooyala.com/UyeHF0ZTE6fd8DDvO0veLW_zQqtopdGp/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မင်းရာဇာ၊ အေးမြတ်သူ) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး ဒါရိုက်တာ - မောင်မောင်မြင့်လွင် (ဓါတ်ပုံ) ရိုက်ကူးထားတဲ့ \"အမုန်းရှင်းတမ်း\""
+    },
+{
+      "image" : "http://104275-c.ooyala.com/E0eHF0ZTE6R-kITNvyOA2VEPiPrUag2o/promo346566297",
+	  "cover" : "http://104275-c.ooyala.com/E0eHF0ZTE6R-kITNvyOA2VEPiPrUag2o/promo346566297",
+      "length" : "49:35",
+      "gen" : "pyoneplay","date" : "2019","path" : "dd",
+      "size" : "153",
+      "title" : "အမုန်​းရှင်​းတမ်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "dd",
+      "video" : "http://104275-c.ooyala.com/E0eHF0ZTE6R-kITNvyOA2VEPiPrUag2o/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မင်းရာဇာ၊ အေးမြတ်သူ) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး ဒါရိုက်တာ - မောင်မောင်မြင့်လွင် (ဓါတ်ပုံ) ရိုက်ကူးထားတဲ့ \"အမုန်းရှင်းတမ်း\""
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/83NHN0ZTE6MOV40IEckZj6EuzpRreLtE/x0JBUkvnwpAy-qi34xMDoxOjBmO230Ws",
+	  "cover" : "http://104275-c.ooyala.com/83NHN0ZTE6MOV40IEckZj6EuzpRreLtE/x0JBUkvnwpAy-qi34xMDoxOjBmO230Ws",
+      "length" : "58:38",
+      "gen" : "pyoneplay","date" : "2019","path" : "fg",
+      "size" : "181",
+      "title" : "အချစ်​စံအိမ်​၊အမုန်​းစံအိမ်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "fg",
+      "video" : "http://104275-c.ooyala.com/83NHN0ZTE6MOV40IEckZj6EuzpRreLtE/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : " (ဇေရဲထက်၊ ရွှေမှုံရတီ) [ဒါရိုက်တာ- လွင်ဗို]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/tpMnR0ZTE69AzwlDR1qV1yKDr23Jw637/ASqSTwfBDudlPt2X4xMDoxOjBmO230Ws",
+	  "cover" : "http://104275-c.ooyala.com/tpMnR0ZTE69AzwlDR1qV1yKDr23Jw637/ASqSTwfBDudlPt2X4xMDoxOjBmO230Ws",
+      "length" : "53:18",
+      "gen" : "pyoneplay","date" : "2019","path" : "fg",
+      "size" : "164",
+      "title" : "အချစ်​စံအိမ်​၊အမုန်​းစံအိမ်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "fg",
+      "video" : "http://104275-c.ooyala.com/tpMnR0ZTE69AzwlDR1qV1yKDr23Jw637/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : " (ဇေရဲထက်၊ ရွှေမှုံရတီ) [ဒါရိုက်တာ- လွင်ဗို]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/pkdzF1ZTE6-nTdrsAE25wZphs-x9UC_P/promo346663797",
+	  "cover" : "http://104275-c.ooyala.com/pkdzF1ZTE6-nTdrsAE25wZphs-x9UC_P/promo346663797",
+      "length" : "62:24",
+      "gen" : "pyoneplay","date" : "2019","path" : "f",
+      "size" : "193",
+      "title" : "ချစ်​တယ်​..ချစ်​တယ်​..အရမ်​းချစ်​တယ်​. ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "f",
+      "video" : "http://104275-c.ooyala.com/pkdzF1ZTE6-nTdrsAE25wZphs-x9UC_P/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(စွမ်း၊ စိုးပြည့်သဇင်) [ဒါရိုက်တာ- စိုးကျော်ဆန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/9nNDJ1ZTE6Oj-WUNMDsK5bI5oSlKFLYK/promo346663816",
+	  "cover" : "http://104275-c.ooyala.com/9nNDJ1ZTE6Oj-WUNMDsK5bI5oSlKFLYK/promo346663816",
+      "length" : "54:34",
+      "gen" : "pyoneplay","date" : "2019","path" : "f",
+      "size" : "168",
+      "title" : "ချစ်​တယ်​..ချစ်​တယ်​..အရမ်​းချစ်​တယ်​. ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "f",
+      "video" : "http://104275-c.ooyala.com/9nNDJ1ZTE6Oj-WUNMDsK5bI5oSlKFLYK/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(စွမ်း၊ စိုးပြည့်သဇင်) [ဒါရိုက်တာ- စိုးကျော်ဆန်း]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/YyYjlnZzE6TOUHXsLeWy-0x4GzjOIPrD/promo364121508",
+	   "cover" : "http://104275-c.ooyala.com/YyYjlnZzE6TOUHXsLeWy-0x4GzjOIPrD/promo364121508",
+      "length" : "59:38",
+      "gen" : "pyoneplay","date" : "2019","path" : "g",
+      "size" : "184",
+      "title" : "ရင်​ခွင်ရိပ်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "g",
+      "video" : "http://104275-c.ooyala.com/YyYjlnZzE6TOUHXsLeWy-0x4GzjOIPrD/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အောင်ရဲလင်း၊မေကဗျာ၊ချောရတနာ) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/IwYjlnZzE6F_vkoPEPY-BXNjIPY94G-J/promo364121535",
+	   "cover" : "http://104275-c.ooyala.com/IwYjlnZzE6F_vkoPEPY-BXNjIPY94G-J/promo364121535",
+      "length" : "62:09",
+      "gen" : "pyoneplay","date" : "2019","path" : "g",
+      "size" : "192",
+      "title" : "ရင်​ခွင်ရိပ်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "g",
+      "video" : "http://104275-c.ooyala.com/IwYjlnZzE6F_vkoPEPY-BXNjIPY94G-J/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အောင်ရဲလင်း၊မေကဗျာ၊ချောရတနာ) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/BteHlmZzE6XQl7DAIu-e5UgXQjg66FRS/promo364039746",
+	  "cover" : "http://104275-c.ooyala.com/BteHlmZzE6XQl7DAIu-e5UgXQjg66FRS/promo364039746",
+      "length" : "51:02",
+      "gen" : "pyoneplay","date" : "2019","path" : "ကက",
+      "size" : "157",
+      "title" : "​ပေါ​ရွှေ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "ကက",
+      "video" : "http://104275-c.ooyala.com/BteHlmZzE6XQl7DAIu-e5UgXQjg66FRS/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မင်းရာဇာ၊မျိုးစန္ဒီကျော်) [ဒါရိုက်တာ- စန္ဒာအောင်သိန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
+	  "cover" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
+      "length" : "52:24",
+      "gen" : "pyoneplay","date" : "2019","path" : "ကက",
+      "size" : "162",
+      "title" : "​ပေါ​ရွှေ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "ကက",
+      "video" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မင်းရာဇာ၊မျိုးစန္ဒီကျော်) [ဒါရိုက်တာ- စန္ဒာအောင်သိန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/FhNW9mZzE6hnmCiGCxj3Eq-347ZuyEf2/promo363941440",
+	  "cover" : "http://104275-c.ooyala.com/FhNW9mZzE6hnmCiGCxj3Eq-347ZuyEf2/promo363941440",
+      "length" : "57:28",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "177",
+      "title" : "(18)နှစ်​​အောက်​မကြည်​့ရ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/FhNW9mZzE6hnmCiGCxj3Eq-347ZuyEf2/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : " (ခန့်စည်သူ၊သင်ဇာဝင့်ကျော်၊လန်း၊သဲနော်ဇာ်) [ဒါရိုက်တာ- ဇေပါ (ဖော်ကျူးကြိုးစားသည်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/g4NW9mZzE6dBSvxvZdcdZvqzvGyVR3-9/promo363941471",
+	  "cover" : "http://104275-c.ooyala.com/g4NW9mZzE6dBSvxvZdcdZvqzvGyVR3-9/promo363941471",
+      "length" : "57:42",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "178",
+      "title" : "(18)နှစ်​​အောက်​မကြည်​့ရ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/g4NW9mZzE6dBSvxvZdcdZvqzvGyVR3-9/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : " (ခန့်စည်သူ၊သင်ဇာဝင့်ကျော်၊လန်း၊သဲနော်ဇာ်) [ဒါရိုက်တာ- ဇေပါ (ဖော်ကျူးကြိုးစားသည်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/lmM2hmZzE6ZRS9p6SQ6zVu65uWh8xlz0/promo363869659",
+	  "cover" : "http://104275-c.ooyala.com/lmM2hmZzE6ZRS9p6SQ6zVu65uWh8xlz0/promo363869659",
+      "length" : "61:48",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "191",
+      "title" : "​ပျော်​လိုက်​ရ​အောင်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/lmM2hmZzE6ZRS9p6SQ6zVu65uWh8xlz0/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အကယ်ဒမီလွင်မိုး၊အကယ်ဒမီစိုးမြတ်နန္ဒာ၊ခိုင်သင်းကြည်၊ရတနာခင်၊ ခင်လေးနွယ်) [ဒါရိုက်တာ-ကိုဇော်(အရုဏ်ဦး]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/xkM2hmZzE6GT0LxuqjbR05AOmbFooXFT/promo363869689",
+	 "cover" : "http://104275-c.ooyala.com/xkM2hmZzE6GT0LxuqjbR05AOmbFooXFT/promo363869689",
+      "length" : "61:33",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "190",
+      "title" : "​ပျော်​လိုက်​ရ​အောင်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/xkM2hmZzE6GT0LxuqjbR05AOmbFooXFT/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အကယ်ဒမီလွင်မိုး၊အကယ်ဒမီစိုးမြတ်နန္ဒာ၊ခိုင်သင်းကြည်၊ရတနာခင်၊ ခင်လေးနွယ်) [ဒါရိုက်တာ-ကိုဇော်(အရုဏ်ဦး]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/R3MjdmZzE61eDtHu4Bm6AjUaQ_mZwV2T/promo363685883",
+	  "cover" : "http://104275-c.ooyala.com/R3MjdmZzE61eDtHu4Bm6AjUaQ_mZwV2T/promo363685883",
+      "length" : "59:51",
+      "gen" : "pyoneplay","date" : "2019","path" : "ပ",
+      "size" : "185",
+      "title" : "ဂန္တ0င်​အမုန်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "ပ",
+      "video" : "http://104275-c.ooyala.com/R3MjdmZzE61eDtHu4Bm6AjUaQ_mZwV2T/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ရဲအောင်၊အောင်ဇေ၊စိုးပြည့်သဇင်၊တင့်တင့်ထွန်း) [ဒါရိုက်တာ-အောင်ဆွေမြန်မာ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/l1MjdmZzE6ftLNVwGFvYSEMDtnrgvNPA/promo363685903",
+	  "cover" : "http://104275-c.ooyala.com/l1MjdmZzE6ftLNVwGFvYSEMDtnrgvNPA/promo363685903",
+      "length" : "66:36",
+      "gen" : "pyoneplay","date" : "2019","path" : "ပ",
+      "size" : "206",
+      "title" : "ဂန္တ0င်​အမုန်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "ပ",
+      "video" : "http://104275-c.ooyala.com/l1MjdmZzE6ftLNVwGFvYSEMDtnrgvNPA/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ရဲအောင်၊အောင်ဇေ၊စိုးပြည့်သဇင်၊တင့်တင့်ထွန်း) [ဒါရိုက်တာ-အောင်ဆွေမြန်မာ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/liODZmZzE6_1XOjZFpRbbLx8QOkEnBFF/promo363674918",
+	  "cover" : "http://104275-c.ooyala.com/liODZmZzE6_1XOjZFpRbbLx8QOkEnBFF/promo363674918",
+      "length" : "59:32",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "184",
+      "title" : "ရွာကဖွဘုတ်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/liODZmZzE6_1XOjZFpRbbLx8QOkEnBFF/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေဒွေး၊နန်းဆုဦး) [ဒါရိုက်တာ-သိန်းဟန်(ဖီးနစ်)]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/05ODZmZzE6sXc2k1lnPQIw64lrR6vhu-/promo363674938",
+	  "cover" : "http://104275-c.ooyala.com/05ODZmZzE6sXc2k1lnPQIw64lrR6vhu-/promo363674938",
+      "length" : "54:48",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "169",
+      "title" : "ရွာကဖွဘုတ်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/05ODZmZzE6sXc2k1lnPQIw64lrR6vhu-/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေဒွေး၊နန်းဆုဦး) [ဒါရိုက်တာ-သိန်းဟန်(ဖီးနစ်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/JxeXllZzE69wu8_Z7YsIBrrC8R37ew7y/promo363607538",
+	  "cover" : "http://104275-c.ooyala.com/JxeXllZzE69wu8_Z7YsIBrrC8R37ew7y/promo363607538",
+      "length" : "53:02",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "164",
+      "title" : "ညို​သောပင်​လယ်​ ဆွဲငင်​​သောလမင်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/JxeXllZzE69wu8_Z7YsIBrrC8R37ew7y/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အကယ်ဒမီဒွေး၊အကယ်ဒမီထွန်းအိန္ဒြာဗို၊ရတနာခင်) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/promo363607565",
+	  "cover" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/promo363607565",
+      "length" : "55:40",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "172",
+      "title" : "ညို​သောပင်​လယ်​ ဆွဲငင်​​သောလမင်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အကယ်ဒမီဒွေး၊အကယ်ဒမီထွန်းအိန္ဒြာဗို၊ရတနာခင်) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/Y3ZG9lZzE6V04QfJ7Ysn7RLAAdPbXTl0/promo363512685",
+	  "cover" : "http://104275-c.ooyala.com/Y3ZG9lZzE6V04QfJ7Ysn7RLAAdPbXTl0/promo363512685",
+      "length" : "60:07",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "186",
+      "title" : "တစ်​ပွဲစား ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/Y3ZG9lZzE6V04QfJ7Ysn7RLAAdPbXTl0/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(လူမင်း၊နေမင်း၊မိုးယံဇွန်၊ချမ်းမီမီကို) [ဒါရိုက်တာ- မိုက်တီးရဲ့ရိုက်ချက်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/01ZG9lZzE6SvtILqzc0IBhdEUNldBHAx/promo363512703",
+	  "cover" : "http://104275-c.ooyala.com/01ZG9lZzE6SvtILqzc0IBhdEUNldBHAx/promo363512703",
+      "length" : "65:23",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "202",
+      "title" : "တစ်​ပွဲစား ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/01ZG9lZzE6SvtILqzc0IBhdEUNldBHAx/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(လူမင်း၊နေမင်း၊မိုးယံဇွန်၊ချမ်းမီမီကို) [ဒါရိုက်တာ- မိုက်တီးရဲ့ရိုက်ချက်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/k4ZmZlZzE6fyVH0v_NLRgWFu_3FADV3V/promo363426119",
+	  "cover" : "http://104275-c.ooyala.com/k4ZmZlZzE6fyVH0v_NLRgWFu_3FADV3V/promo363426119",
+      "length" : "46:30",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "144",
+      "title" : "သံ​ယောဇဉ်​​ထောင်​​ချောက်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/k4ZmZlZzE6fyVH0v_NLRgWFu_3FADV3V/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(စွမ်း၊သဉ္ဇာနွယ်ဝင်း) [ဒါရိုက်တာ- ကျော်ဇ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/42ZmZlZzE6gtcwH45LWT1c1BbUucFaiT/promo363426103",
+	  "cover" : "http://104275-c.ooyala.com/42ZmZlZzE6gtcwH45LWT1c1BbUucFaiT/promo363426103",
+      "length" : "49:21",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "153",
+      "title" : "သံ​ယောဇဉ်​​ထောင်​​ချောက်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/42ZmZlZzE6gtcwH45LWT1c1BbUucFaiT/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(စွမ်း၊သဉ္ဇာနွယ်ဝင်း) [ဒါရိုက်တာ- ကျော်ဇ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/BqNzZlZzE6bLLW5Hf8yB9B6n1ISuS6KL/promo363337200",
+	  "cover" : "http://104275-c.ooyala.com/BqNzZlZzE6bLLW5Hf8yB9B6n1ISuS6KL/promo363337200",
+      "length" : "51:48",
+      "gen" : "pyoneplay","date" : "2019","path" : "မ",
+      "size" : "159",
+      "title" : "ဖူးစာဆုံမှတ်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "မ",
+      "video" : "http://104275-c.ooyala.com/BqNzZlZzE6bLLW5Hf8yB9B6n1ISuS6KL/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ရဲအောင်၊ချမ်းမီမီကို၊ဖူးဖူး၊ထိုက်ဆုဝင်း) [ဒါရိုက်တာ- ဇော်မျိုး]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/RoNzZlZzE671lhxw5Xs6T-8SnRvfP0z6/promo363337253",
+	  "cover" : "http://104275-c.ooyala.com/RoNzZlZzE671lhxw5Xs6T-8SnRvfP0z6/promo363337253",
+      "length" : "51:22",
+      "gen" : "pyoneplay","date" : "2019","path" : "မစ",
+      "size" : "159",
+      "title" : "ဖူးစာဆုံမှတ်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "မစ",
+      "video" : "http://104275-c.ooyala.com/RoNzZlZzE671lhxw5Xs6T-8SnRvfP0z6/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ရဲအောင်၊ချမ်းမီမီကို၊ဖူးဖူး၊ထိုက်ဆုဝင်း) [ဒါရိုက်တာ- ဇော်မျိုး]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/FmZ3lkZzE6WM0U98I9KgIL_xLLgbZu43/promo363263468",
+	  "cover" : "http://104275-c.ooyala.com/FmZ3lkZzE6WM0U98I9KgIL_xLLgbZu43/promo363263468",
+      "length" : "50:20",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "155",
+      "title" : "​မေးခွန်​းနံပတ်​ 3 ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/FmZ3lkZzE6WM0U98I9KgIL_xLLgbZu43/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ခန့်စည်သူ၊အိချောပို) [ဒါရိုက်တာ- ဇေပါဖော်ကျူးကြိုးစားသည်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/tkZ3lkZzE64y5VjJ-MM7HT4_U-SW8Vat/promo363263492",
+	   "cover" : "http://104275-c.ooyala.com/tkZ3lkZzE64y5VjJ-MM7HT4_U-SW8Vat/promo363263492",
+      "length" : "49:57",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "154",
+      "title" : "​မေးခွန်​းနံပတ်​ 3 ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/tkZ3lkZzE64y5VjJ-MM7HT4_U-SW8Vat/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ခန့်စည်သူ၊အိချောပို) [ဒါရိုက်တာ- ဇေပါဖော်ကျူးကြိုးစားသည်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/wybG1kZzE6Va040Z7J7wE7kKyriAlCyJ/promo363084769",
+	  "cover" : "http://104275-c.ooyala.com/wybG1kZzE6Va040Z7J7wE7kKyriAlCyJ/promo363084769",
+      "length" : "58:07",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "179",
+      "title" : "သမုဒယ.ကင်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/wybG1kZzE6Va040Z7J7wE7kKyriAlCyJ/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ထွန်းထွန်း(Examplez)၊ သင်ဇာဝင့်ကျော်၊ ပုလဲဝင်းး) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/cwbG1kZzE6o7Jj76sY0N5APGtIYFzwYj/promo363084794",
+	  "cover" : "http://104275-c.ooyala.com/cwbG1kZzE6o7Jj76sY0N5APGtIYFzwYj/promo363084794",
+      "length" : "57:02",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "176",
+      "title" : "သမုဒယ.ကင်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/cwbG1kZzE6o7Jj76sY0N5APGtIYFzwYj/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ထွန်းထွန်း(Examplez)၊ သင်ဇာဝင့်ကျော်၊ ပုလဲဝင်းး) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/BsOWZkZzE63xHklb7jPc2bxHcbzXYWVj/promo363000031",
+	  "cover" : "http://104275-c.ooyala.com/BsOWZkZzE63xHklb7jPc2bxHcbzXYWVj/promo363000031",
+      "length" : "50:42",
+      "gen" : "pyoneplay","date" : "2019","path" : "t",
+      "size" : "157",
+      "title" : "ရာဇ0င်​မလှတဲ့ ကဗျာ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "t",
+      "video" : "http://104275-c.ooyala.com/BsOWZkZzE63xHklb7jPc2bxHcbzXYWVj/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ဖြိုးငွေစိုး၊ရဲအောင်၊စံရတီမိုးမြင့်၊ခိုင်နှင်းဝေ) [ဒါရိုက်တာ- ဗန်းကြီး]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/hqOWZkZzE6c-Utpjp_l7P3VJhKWYH4l-/promo363000049",
+	  "cover" : "http://104275-c.ooyala.com/hqOWZkZzE6c-Utpjp_l7P3VJhKWYH4l-/promo363000049",
+      "length" : "50:46",
+      "gen" : "pyoneplay","date" : "2019","path" : "t",
+      "size" : "156",
+      "title" : "ရာဇ0င်​မလှတဲ့ ကဗျာ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "t",
+      "video" : "http://104275-c.ooyala.com/hqOWZkZzE6c-Utpjp_l7P3VJhKWYH4l-/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ဖြိုးငွေစိုး၊ရဲအောင်၊စံရတီမိုးမြင့်၊ခိုင်နှင်းဝေ) [ဒါရိုက်တာ- ဗန်းကြီး]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/lseDNkZzE6sSLJPtOLsv9eyecqnM-gTR/promo362915518",
+	  "cover" : "http://104275-c.ooyala.com/lseDNkZzE6sSLJPtOLsv9eyecqnM-gTR/promo362915518",
+      "length" : "61:11",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "189",
+      "title" : "ချူစားမယ်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/lseDNkZzE6sSLJPtOLsv9eyecqnM-gTR/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အောင်ရဲလင်း၊နေဆန်း၊သင်ဇာဝင့်ကျော်၊ယွန်းရွှေရည်) [ဒါရိုက်တာ- ကျော်ဇောလင်း၏အေတွးပုံရိပ်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/xqeDNkZzE6LCWz9zKV9YlNjA3Iliueja/promo362915553",
+	  "cover" : "http://104275-c.ooyala.com/xqeDNkZzE6LCWz9zKV9YlNjA3Iliueja/promo362915553",
+      "length" : "75:29",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "233",
+      "title" : "ချူစားမယ်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/xqeDNkZzE6LCWz9zKV9YlNjA3Iliueja/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အောင်ရဲလင်း၊နေဆန်း၊သင်ဇာဝင့်ကျော်၊ယွန်းရွှေရည်) [ဒါရိုက်တာ- ကျော်ဇောလင်း၏အေတွးပုံရိပ်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/p2a3JjZzE6is9EnXlJ3F-E-VX8JUb9se/promo362818705",
+	  "cover" : "http://104275-c.ooyala.com/p2a3JjZzE6is9EnXlJ3F-E-VX8JUb9se/promo362818705",
+      "length" : "59:38",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "183",
+      "title" : "ဘ00င်္ကပါ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/p2a3JjZzE6is9EnXlJ3F-E-VX8JUb9se/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မင်းထက်ကျော်ဇင်၊အေးမြတ်ဇော်လင်း၊မေသူ) [ဒါရိုက်တာ- ညွှန့်မြန်မာညီညီအောင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/F0a3JjZzE6r8Q4BNofvIkZz7hN5YxWiH/promo362818727",
+	   "cover" : "http://104275-c.ooyala.com/F0a3JjZzE6r8Q4BNofvIkZz7hN5YxWiH/promo362818727",
+      "length" : "59:28",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "183",
+      "title" : "ဘ00င်္ကပါ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/F0a3JjZzE6r8Q4BNofvIkZz7hN5YxWiH/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မင်းထက်ကျော်ဇင်၊အေးမြတ်ဇော်လင်း၊မေသူ) [ဒါရိုက်တာ- ညွှန့်မြန်မာညီညီအောင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/NhNGljZzE62eawoJy9WVaLqqZiQr0fAH/promo362738608",
+	  "cover" : "http://104275-c.ooyala.com/NhNGljZzE62eawoJy9WVaLqqZiQr0fAH/promo362738608",
+      "length" : "51:32",
+      "gen" : "pyoneplay","date" : "2019","path" : "မ",
+      "size" : "159",
+      "title" : "​ရွှေမင်​းသမီးနှင်​့​တောသားကိုကို ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "မ",
+      "video" : "http://104275-c.ooyala.com/NhNGljZzE62eawoJy9WVaLqqZiQr0fAH/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မြင့်မြတ်၊မိုးယုစံ) [ဒါရိုက်တာ- ပြည်ဟိန်းသီဟ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/04NGljZzE6P2pwziOdgNjrHeL92xI-r9/promo362738837",
+	  "cover" : "http://104275-c.ooyala.com/04NGljZzE6P2pwziOdgNjrHeL92xI-r9/promo362738837",
+      "length" : "68:41",
+      "gen" : "pyoneplay","date" : "2019","path" : "မ",
+      "size" : "212",
+      "title" : "​ရွှေမင်​းသမီးနှင်​့​တောသားကိုကို ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "မ",
+      "video" : "http://104275-c.ooyala.com/04NGljZzE6P2pwziOdgNjrHeL92xI-r9/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မြင့်မြတ်၊မိုးယုစံ) [ဒါရိုက်တာ- ပြည်ဟိန်းသီဟ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/RpazRjZzE6YIddxyvMA6BDWMbyj9aRPz/promo362657798",
+	  "cover" : "http://104275-c.ooyala.com/RpazRjZzE6YIddxyvMA6BDWMbyj9aRPz/promo362657798",
+      "length" : "58:23",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "180",
+      "title" : "မင်​းအတွက်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/RpazRjZzE6YIddxyvMA6BDWMbyj9aRPz/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(သူထူးစံ၊ရှင်ယွန်းမြတ်၊နေဆန်း၊မေသန်းနု) [ဒါရိုက်တာ- ဒီအေးလွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/tlazRjZzE6nox2HFjH6tfdt5RQnbhtea/promo362657817",
+	  "cover" : "http://104275-c.ooyala.com/tlazRjZzE6nox2HFjH6tfdt5RQnbhtea/promo362657817",
+      "length" : "50:01",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "154",
+      "title" : "မင်​းအတွက်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/tlazRjZzE6nox2HFjH6tfdt5RQnbhtea/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(သူထူးစံ၊ရှင်ယွန်းမြတ်၊နေဆန်း၊မေသန်းနု) [ဒါရိုက်တာ- ဒီအေးလွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/ZxOHRiZzE6vZlCBwOE0rf3Mu2I093pDD/promo362487918",
+	  "cover" : "http://104275-c.ooyala.com/ZxOHRiZzE6vZlCBwOE0rf3Mu2I093pDD/promo362487918",
+      "length" : "53:21",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "165",
+      "title" : "ချစ်​ဆိပ်​ရည်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/ZxOHRiZzE6vZlCBwOE0rf3Mu2I093pDD/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ပြေတီဦး၊စိုးမြတ်သူဇာ၊ချောရတနာ၊သစ်နေစ) [ဒါရိုက်တာ- ကိုဇော်(အရုဏ်ဦး)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/JvOHRiZzE6h1FdOvqZiGp0YtJM873I_V/promo362488019",
+	  "cover" : "http://104275-c.ooyala.com/JvOHRiZzE6h1FdOvqZiGp0YtJM873I_V/promo362488019",
+      "length" : "58:42",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "181",
+      "title" : "ချစ်​ဆိပ်​ရည်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/JvOHRiZzE6h1FdOvqZiGp0YtJM873I_V/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ပြေတီဦး၊စိုးမြတ်သူဇာ၊ချောရတနာ၊သစ်နေစ) [ဒါရိုက်တာ- ကိုဇော်(အရုဏ်ဦး)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/s5000OWliZzE6eBk1J3sWw6vWgh0t9fjC28/promo362386526",
+	  "cover" : "http://104275-c.ooyala.com/s5000OWliZzE6eBk1J3sWw6vWgh0t9fjC28/promo362386526",
+      "length" : "57:06",
+      "gen" : "pyoneplay","date" : "2019","path" : "t",
+      "size" : "176",
+      "title" : "​ရေခဲစိမ်​နှစ်​မွှာအသည်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "t",
+      "video" : "http://104275-c.ooyala.com/s5000OWliZzE6eBk1J3sWw6vWgh0t9fjC28/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေဒွေး၊စံရတီမိုးမြင့်) [ဒါရိုက်တာ- သိန်းဟန်(ဖီးနစ်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/IyOWliZzE69nCr_cYR68dyIlJ2p5L4ll/promo362386546",
+	  "cover" : "http://104275-c.ooyala.com/IyOWliZzE69nCr_cYR68dyIlJ2p5L4ll/promo362386546",
+      "length" : "55:04",
+      "gen" : "pyoneplay","date" : "2019","path" : "t",
+      "size" : "170",
+      "title" : "​ရေခဲစိမ်​နှစ်​မွှာအသည်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "t",
+      "video" : "http://104275-c.ooyala.com/IyOWliZzE69nCr_cYR68dyIlJ2p5L4ll/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေဒွေး၊စံရတီမိုးမြင့်) [ဒါရိုက်တာ- သိန်းဟန်(ဖီးနစ်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/Y1YjliZzE6tmIJb9UqnFNV5639yOxfEi/promo362302676",
+	  "cover" : "http://104275-c.ooyala.com/Y1YjliZzE6tmIJb9UqnFNV5639yOxfEi/promo362302676",
+      "length" : "51:19",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "158",
+      "title" : "အန္တရာယ်​ည ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/Y1YjliZzE6tmIJb9UqnFNV5639yOxfEi/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မိုးအောင်ရင်၊နေဆန်း၊မေသက်ခိုင်၊ခေမီကို) [ဒါရိုက်တာ- ဒီအေးလွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/EzYjliZzE6mu8E4XYjLpGJOuoksF_gDD/promo362302693",
+	  "cover" : "http://104275-c.ooyala.com/EzYjliZzE6mu8E4XYjLpGJOuoksF_gDD/promo362302693",
+      "length" : "56:11",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "174",
+      "title" : "အန္တရာယ်​ည ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/EzYjliZzE6mu8E4XYjLpGJOuoksF_gDD/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(မိုးအောင်ရင်၊နေဆန်း၊မေသက်ခိုင်၊ခေမီကို) [ဒါရိုက်တာ- ဒီအေးလွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/p3a2dhZzE63NB4IJYS_MhpXBQq3JH1fe/promo362038221",
+	  "cover" : "http://104275-c.ooyala.com/p3a2dhZzE63NB4IJYS_MhpXBQq3JH1fe/promo362038221",
+      "length" : "55:34",
+      "gen" : "pyoneplay","date" : "2019","path" : "အ",
+      "size" : "172",
+      "title" : "အငြိုး ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အ",
+      "video" : "http://104275-c.ooyala.com/p3a2dhZzE63NB4IJYS_MhpXBQq3JH1fe/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေမျိုးအောင်၊သူရလင်း၊ပုလဲဝင်း၊နန်းဒေဝီ) [ဒါရိုက်တာ- ဇမ္ဗူထွန်းသက်လွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/t5a2dhZzE60Jc1XkNffQ7VVEElfnn5Io/promo362038138",
+	  "cover" : "http://104275-c.ooyala.com/t5a2dhZzE60Jc1XkNffQ7VVEElfnn5Io/promo362038138",
+      "length" : "55:48",
+      "gen" : "pyoneplay","date" : "2019","path" : "-LPGdYK0Nzbxma8YaU4H",
+      "size" : "171",
+      "title" : "အငြိုး ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "-LPGdYK0Nzbxma8YaU4H",
+      "video" : "http://104275-c.ooyala.com/t5a2dhZzE60Jc1XkNffQ7VVEElfnn5Io/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေမျိုးအောင်၊သူရလင်း၊ပုလဲဝင်း၊နန်းဒေဝီ) [ဒါရိုက်တာ- ဇမ္ဗူထွန်းသက်လွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/lkMmI3aDE6g1cbTv8Y8OvJutnGws6gPT/promo373624162",
+	  "cover" : "http://104275-c.ooyala.com/lkMmI3aDE6g1cbTv8Y8OvJutnGws6gPT/promo373624162",
+      "length" : "48:47",
+      "gen" : "pyoneplay","date" : "2019","path" : "tt",
+      "size" : "151",
+      "title" : "တိမ်​​ငွေ့ဖြူ  ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "tt",
+      "video" : "http://104275-c.ooyala.com/lkMmI3aDE6g1cbTv8Y8OvJutnGws6gPT/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(နေတိုး၊ သက်မွန်မြင့်၊ ရတနာဖြူဖြူအောင်) [ဒါရိုက်တာ - ဝင်းထွန်းထွန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/9mMmI3aDE6FnMPaeub7Nw62eeNnVSpvl/promo373624180",
+	  "cover" : "http://104275-c.ooyala.com/9mMmI3aDE6FnMPaeub7Nw62eeNnVSpvl/promo373624180",
+      "length" : "59:41",
+      "gen" : "pyoneplay","date" : "2019","path" : "tt",
+      "size" : "184",
+      "title" : "တိမ်​​ငွေ့ဖြူ  ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "tt",
+      "video" : "http://104275-c.ooyala.com/9mMmI3aDE6FnMPaeub7Nw62eeNnVSpvl/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(နေတိုး၊ သက်မွန်မြင့်၊ ရတနာဖြူဖြူအောင်) [ဒါရိုက်တာ - ဝင်းထွန်းထွန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/J4dGE3aDE6rmGRO0X2yFtGXTVmVwo2r5/promo373620703",
+      "cover" : "http://104275-c.ooyala.com/J4dGE3aDE6rmGRO0X2yFtGXTVmVwo2r5/promo373620703",
+      "length" : "49:54",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "155",
+      "title" : "အ​ပျော်​​ပေါ့ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/J4dGE3aDE6rmGRO0X2yFtGXTVmVwo2r5/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(ခန့်စည်သူ၊ ခိုင်သင်းကြည်၊ ရွှေပိုးအိမ်၊ ခင်လှိုင်၊ ဒိန်းဒေါင်) [ဒါရိုက်တာ - သိန်းဟန်(ဖီးနစ်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/8wdWE3aDE6qS9VJm3Zp-nQOZE3nYmh01/promo373620727",
+	  "cover" : "http://104275-c.ooyala.com/8wdWE3aDE6qS9VJm3Zp-nQOZE3nYmh01/promo373620727",
+      "length" : "58:46",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "182",
+      "title" : "အ​ပျော်​​ပေါ့ ဇာတ်သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/8wdWE3aDE6qS9VJm3Zp-nQOZE3nYmh01/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(ခန့်စည်သူ၊ ခိုင်သင်းကြည်၊ ရွှေပိုးအိမ်၊ ခင်လှိုင်၊ ဒိန်းဒေါင်) [ဒါရိုက်တာ - သိန်းဟန်(ဖီးနစ်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/ZhYWE3aDE6qJ6HxIEWHqTW2gtOFB1VBg/promo373611492",
+	  "cover" : "http://104275-c.ooyala.com/ZhYWE3aDE6qJ6HxIEWHqTW2gtOFB1VBg/promo373611492",
+      "length" : "45:49",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "142",
+      "title" : "​အေဒင်​မြို့သူများ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/ZhYWE3aDE6qJ6HxIEWHqTW2gtOFB1VBg/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(ရဲတိုက်၊ရတနာဖြူဖြူအောင်၊ နန်းမြတ်ဖြိုးသင်း၊မေပန်းချီ) [ဒါရိုက်တာ - ညိုမင်းလွင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/Z1YWE3aDE6dm3xr77Q8E5qnD19yKbQVA/promo373611561",
+	  "cover" : "http://104275-c.ooyala.com/Z1YWE3aDE6dm3xr77Q8E5qnD19yKbQVA/promo373611561",
+      "length" : "63:10",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "194",
+      "title" : "​အေဒင်​မြို့သူများ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/Z1YWE3aDE6dm3xr77Q8E5qnD19yKbQVA/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(ရဲတိုက်၊ရတနာဖြူဖြူအောင်၊ နန်းမြတ်ဖြိုးသင်း၊မေပန်းချီ) [ဒါရိုက်တာ - ညိုမင်းလွင်]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/h1ZDM3aDE6wQp5cvVLxqZn9AIMXZSu-M/promo373531328",
+	  "cover" : "http://104275-c.ooyala.com/h1ZDM3aDE6wQp5cvVLxqZn9AIMXZSu-M/promo373531328",
+      "length" : "53:20",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "165",
+      "title" : "အရိုင်​းအစိုင်​းသမိုင်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/h1ZDM3aDE6wQp5cvVLxqZn9AIMXZSu-M/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(သူထူးစံ၊ မင်းရာဇာ၊ အေးမြတ်သူ၊ အံ့မင်းညို) [ဒါရိုက်တာ - မောင်မောင်မြင့်လွင် (ဓာတ်ပုံ)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/13ZDM3aDE6KUqVKSeNWNDdmNRBIYX19y/promo373531392",
+	  "cover" : "http://104275-c.ooyala.com/13ZDM3aDE6KUqVKSeNWNDdmNRBIYX19y/promo373531392",
+      "length" : "54:50",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "170",
+      "title" : "အရိုင်​းအစိုင်​းသမိုင်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/13ZDM3aDE6KUqVKSeNWNDdmNRBIYX19y/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(သူထူးစံ၊ မင်းရာဇာ၊ အေးမြတ်သူ၊ အံ့မင်းညို) [ဒါရိုက်တာ - မောင်မောင်မြင့်လွင် (ဓာတ်ပုံ)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/FpaGs2aDE6OdXYIpERFUPgBuNKCAr5iV/promo373277281",
+	  "cover" : "http://104275-c.ooyala.com/FpaGs2aDE6OdXYIpERFUPgBuNKCAr5iV/promo373277281",
+      "length" : "52:21",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "161",
+      "title" : "အမှတ်​တရ၏ တစ်​ဖက်​​ကောင်​းကင်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/FpaGs2aDE6OdXYIpERFUPgBuNKCAr5iV/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(နေတိုး၊ချစ်သုဝေ၊ ချစ်သူ၊ ရဲသီဟကို၊ ဆုကဗျာ) [ဒါရိုက်တာ - ကြည်ဖြူသျှင်]"
+    },
+{
+      "cover" : "http://104275-c.ooyala.com/d1aGs2aDE6n6azMJqECxH_RIM4ae2lBF/promo373277317",
+	  "image" : "http://104275-c.ooyala.com/d1aGs2aDE6n6azMJqECxH_RIM4ae2lBF/promo373277317",
+      "length" : "60:24",
+      "gen" : "pyoneplay","date" : "2019","path" : "အအ",
+      "size" : "186",
+      "title" : "အမှတ်​တရ၏ တစ်​ဖက်​​ကောင်​းကင်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "အအ",
+      "video" : "http://104275-c.ooyala.com/d1aGs2aDE6n6azMJqECxH_RIM4ae2lBF/DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z",
+      "vol" : "(နေတိုး၊ချစ်သုဝေ၊ ချစ်သူ၊ ရဲသီဟကို၊ ဆုကဗျာ) [ဒါရိုက်တာ - ကြည်ဖြူသျှင်]"
+    }
+,
+{
+      "image" : "http://104275-c.ooyala.com/EzYTVtZTE62WPMit9BP5lLYrecLc_c6I/promo344761549",
+	  "cover" : "http://104275-c.ooyala.com/EzYTVtZTE62WPMit9BP5lLYrecLc_c6I/promo344761549",
+      "length" : "60:17",
+      "gen" : "pyoneplay","date" : "2019","path" : "dd",
+      "size" : "186",
+      "title" : "အိပ်​မက်​ ရစ်​သမ်​ အပိုင်​း(1)",
+     "qual" : "SD", "vid" : "dd",
+      "video" : "http://104275-c.ooyala.com/EzYTVtZTE62WPMit9BP5lLYrecLc_c6I/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ဟိန်းဝေယံ၊ စိုးပြည့်သဇင်) [ဒါရိုက်တာ- နီသစ်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/g4aDVtZTE6mvtUC9tKyiDm8wDKEDu1Qu/promo344761582",
+	  "cover" : "http://104275-c.ooyala.com/g4aDVtZTE6mvtUC9tKyiDm8wDKEDu1Qu/promo344761582",
+      "length" : "52:08",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "161",
+      "title" : "အိပ်​မက်​ ရစ်​သမ်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/g4aDVtZTE6mvtUC9tKyiDm8wDKEDu1Qu/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ဟိန်းဝေယံ၊ စိုးပြည့်သဇင်) [ဒါရိုက်တာ- နီသစ်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/dmNWttZTE6rNC735yCzzJqKj0xXSyDqC/promo344845245",
+	  "cover" : "http://104275-c.ooyala.com/dmNWttZTE6rNC735yCzzJqKj0xXSyDqC/promo344845245",
+      "length" : "51:51",
+      "gen" : "pyoneplay","date" : "2019","path" : "f",
+      "size" : "160",
+      "title" : "ကြိုးဘတိုး ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "f",
+      "video" : "http://104275-c.ooyala.com/dmNWttZTE6rNC735yCzzJqKj0xXSyDqC/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေမျိုးအောင်၊ ခိုင်နှင်းဝေ) [ဒါရိုက်တာ- ဇော်ထွန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/hnZ2ttZTE6rdPwfNsMXCPa2RUgJmfrMS/promo344845259",
+	  "cover" : "http://104275-c.ooyala.com/hnZ2ttZTE6rdPwfNsMXCPa2RUgJmfrMS/promo344845259",
+      "length" : "48:10",
+      "gen" : "pyoneplay","date" : "2019","path" : "f",
+      "size" : "149",
+      "title" : "ကြိုးဘတိုး ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "f",
+      "video" : "http://104275-c.ooyala.com/hnZ2ttZTE6rdPwfNsMXCPa2RUgJmfrMS/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(နေမျိုးအောင်၊ ခိုင်နှင်းဝေ) [ဒါရိုက်တာ- ဇော်ထွန်း]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/ZlaGxtZTE6UMVx6plwhdAIB3gwvJq20i/promo344851654",
+	  "cover" : "http://104275-c.ooyala.com/ZlaGxtZTE6UMVx6plwhdAIB3gwvJq20i/promo344851654",
+      "length" : "48:13",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "149",
+      "title" : "ထိချက်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/ZlaGxtZTE6UMVx6plwhdAIB3gwvJq20i/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကောင်းခန့်၊ သက်မွန်မြင့်) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး [ဒါရိုက်တာ - အောင်ဗပါဝါ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/lnaGxtZTE6XqXHKtG_dMuDXnbFP3o4ej/promo344851684",
+	  "cover" : "http://104275-c.ooyala.com/lnaGxtZTE6XqXHKtG_dMuDXnbFP3o4ej/promo344851684",
+      "length" : "44:53",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "138",
+      "title" : "ထိချက်​ ဇာတ်​သိမ်​းပို်င်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/lnaGxtZTE6XqXHKtG_dMuDXnbFP3o4ej/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကောင်းခန့်၊ သက်မွန်မြင့်) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး [ဒါရိုက်တာ - အောင်ဗပါဝါ]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/NpdjJuZTE6vf36wrbf7V5ut8TK0i6lmt/promo344934249",
+	  "cover" : "http://104275-c.ooyala.com/NpdjJuZTE6vf36wrbf7V5ut8TK0i6lmt/promo344934249",
+      "length" : "52:42",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "163",
+      "title" : "ကြိုးတန်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/NpdjJuZTE6vf36wrbf7V5ut8TK0i6lmt/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ဟိန်း၊ ကျော်ရဲအောင်၊ ထွန်းအိန္ဒြာဗို၊ စိုးမြတ်သူဇာ) [ဒါရိုက်တာ- မီးပွား]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/EwZzNuZTE6TJ7S4KEKpHhEMQt9GWuG1S/promo344934266",
+	  "cover" : "http://104275-c.ooyala.com/EwZzNuZTE6TJ7S4KEKpHhEMQt9GWuG1S/promo344934266",
+      "length" : "53:46",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "166",
+      "title" : "ကြိုးတန်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/EwZzNuZTE6TJ7S4KEKpHhEMQt9GWuG1S/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ဟိန်း၊ ကျော်ရဲအောင်၊ ထွန်းအိန္ဒြာဗို၊ စိုးမြတ်သူဇာ) [ဒါရိုက်တာ- မီးပွား]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/B1N3luZTE6rsD1dPq-V58VuiVcNzORFB/promo345111346",
+	  "cover" : "http://104275-c.ooyala.com/B1N3luZTE6rsD1dPq-V58VuiVcNzORFB/promo345111346",
+      "length" : "40:12",
+      "gen" : "pyoneplay","date" : "2019","path" : "လဘ",
+      "size" : "123",
+      "title" : "​မှော်​0င်​​နေတဲ့မှန်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "လဘ",
+      "video" : "http://104275-c.ooyala.com/B1N3luZTE6rsD1dPq-V58VuiVcNzORFB/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အောင်ရဲလင်း၊ သင်ဇာဝင့်ကျော်၊ ဇင်ဇင်) [ဒါရိုက်တာ - ကြည်ဖြူသျှင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/55N3luZTE6TBY9CtumGWIGG18WJrvRDg/promo345111388",
+	  "cover" : "http://104275-c.ooyala.com/55N3luZTE6TBY9CtumGWIGG18WJrvRDg/promo345111388",
+      "length" : "44:15",
+      "gen" : "pyoneplay","date" : "2019","path" : "လဘ",
+      "size" : "136",
+      "title" : "​မှော်​0င်​​နေတဲ့မှန်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "လဘ",
+      "video" : "http://104275-c.ooyala.com/55N3luZTE6TBY9CtumGWIGG18WJrvRDg/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(အောင်ရဲလင်း၊ သင်ဇာဝင့်ကျော်၊ ဇင်ဇင်) [ဒါရိုက်တာ - ကြည်ဖြူသျှင်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/c4Z2NvZTE6zrRnDIjsTAanwXvjNhfO2z/promo345202522",
+	  "cover" : "http://104275-c.ooyala.com/c4Z2NvZTE6zrRnDIjsTAanwXvjNhfO2z/promo345202522",
+      "length" : "42:29",
+      "gen" : "pyoneplay","date" : "2019","path" : "cg",
+      "size" : "131",
+      "title" : "ငု0ါပန်​း​တွေနဲ့မြိုင်​ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "cg",
+      "video" : "http://104275-c.ooyala.com/c4Z2NvZTE6zrRnDIjsTAanwXvjNhfO2z/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(စွမ်း၊ ဆုမြတ်နိုးဦး၊ မေပန်းချီ၊ စိုးမိုးကြည်) [ဒါရိုက်တာ - ကျော်ဇ]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/phZ2NvZTE6zvMXzaDsh5qjjyjyuyUmjx/promo345202540",
+	  "cover" : "http://104275-c.ooyala.com/phZ2NvZTE6zvMXzaDsh5qjjyjyuyUmjx/promo345202540",
+      "length" : "50:02",
+      "gen" : "pyoneplay","date" : "2019","path" : "cg",
+      "size" : "156",
+      "title" : "ငု0ါပန်​း​တွေနဲ့မြိုင်​ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "cg",
+      "video" : "http://104275-c.ooyala.com/phZ2NvZTE6zvMXzaDsh5qjjyjyuyUmjx/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(စွမ်း၊ ဆုမြတ်နိုးဦး၊ မေပန်းချီ၊ စိုးမိုးကြည်) [ဒါရိုက်တာ - ကျော်ဇ]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/V2eG1vZTE6Adggl-xHUxAJTfquqXczjP/promo345280457",
+	  "cover" : "http://104275-c.ooyala.com/V2eG1vZTE6Adggl-xHUxAJTfquqXczjP/promo345280457",
+      "length" : "63:41",
+      "gen" : "pyoneplay","date" : "2019","path" : "hh",
+      "size" : "197",
+      "title" : "လူစား0င်​တဲ့လူ0င်​စား ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "hh",
+      "video" : "http://104275-c.ooyala.com/V2eG1vZTE6Adggl-xHUxAJTfquqXczjP/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ခန့်စည်သူ၊ မိုးဟေကို) [ဒါရိုက်တာ- သိန်းဟန်(ဖီးနစ်)]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/AzNG5vZTE6F08JPIEsWVV8aJMyDaXTeB/promo345280472",
+	  "cover" : "http://104275-c.ooyala.com/AzNG5vZTE6F08JPIEsWVV8aJMyDaXTeB/promo345280472",
+      "length" : "59:33",
+      "gen" : "pyoneplay","date" : "2019","path" : "hh",
+      "size" : "184",
+      "title" : "လူစား0င်​တဲ့လူ0င်​စား ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "hh",
+      "video" : "http://104275-c.ooyala.com/AzNG5vZTE6F08JPIEsWVV8aJMyDaXTeB/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ခန့်စည်သူ၊ မိုးဟေကို) [ဒါရိုက်တာ- သိန်းဟန်(ဖီးနစ်)]"
+    },
+ {
+      "image" : "http://104275-c.ooyala.com/w5dDFwZTE6I-F3HDRGhOvbESdRYl2wQP/promo345364160",
+	  "cover" : "http://104275-c.ooyala.com/w5dDFwZTE6I-F3HDRGhOvbESdRYl2wQP/promo345364160",
+      "length" : "56:29",
+      "gen" : "pyoneplay","date" : "2019","path" : "cf",
+      "size" : "174",
+      "title" : "နဂါးမျက်​​စောင်​း ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "cf",
+      "video" : "http://104275-c.ooyala.com/w5dDFwZTE6I-F3HDRGhOvbESdRYl2wQP/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(လူမင်း၊ ပန်းဖြူ) [ဒါရိုက်တာ- ကိုမျိုးထူး စိတ်ကူးရင်ခုန်သည်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/1oMDJwZTE6WZkn2Hl2TYMgHOmBBtxxUK/promo345364177",
+	  "cover" : "http://104275-c.ooyala.com/1oMDJwZTE6WZkn2Hl2TYMgHOmBBtxxUK/promo345364177",
+      "length" : "56:50",
+      "gen" : "pyoneplay","date" : "2019","path" : "cf",
+      "size" : "175",
+      "title" : "နဂါးမျက်​​စောင်​း ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "cf",
+      "video" : "http://104275-c.ooyala.com/1oMDJwZTE6WZkn2Hl2TYMgHOmBBtxxUK/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(လူမင်း၊ ပန်းဖြူ) [ဒါရိုက်တာ- ကိုမျိုးထူး စိတ်ကူးရင်ခုန်သည်]"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/AyYjJwZTE6aDydgjeEbAUO3vIb6v7G2C/promo345370078",
+	  "cover" : "http://104275-c.ooyala.com/AyYjJwZTE6aDydgjeEbAUO3vIb6v7G2C/promo345370078",
+      "length" : "40:34",
+      "gen" : "pyoneplay","date" : "2019","path" : "gg",
+      "size" : "124",
+      "title" : "နှလုံးသားသ​င်္ကေတ ပထမပိုင်​း",
+     "qual" : "SD", "vid" : "gg",
+      "video" : "http://104275-c.ooyala.com/AyYjJwZTE6aDydgjeEbAUO3vIb6v7G2C/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ရဲအောင်၊ ရဲရင့်ထူး၊ စံရတီမိုးမြင့်၊ သီရိရှင်းသန့်) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး ဒါရိုက်တာ - မျိုးထူး (စိတ်ကူးရင်ခုန်သည်)"
+    },
+{
+      "image" : "http://104275-c.ooyala.com/I0YjJwZTE6sEsoUJnLaJKazFEUX7oubT/promo345370098",
+	  "cover" : "http://104275-c.ooyala.com/I0YjJwZTE6sEsoUJnLaJKazFEUX7oubT/promo345370098",
+      "length" : "42:12",
+      "gen" : "pyoneplay","date" : "2019","path" : "ff",
+      "size" : "130",
+      "title" : "နှလုံးသားသ​င်္ကေတ ဇာတ်​သိမ်​းပိုင်​း",
+     "qual" : "SD", "vid" : "ff",
+      "video" : "http://104275-c.ooyala.com/I0YjJwZTE6sEsoUJnLaJKazFEUX7oubT/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
+      "vol" : "(ကျော်ရဲအောင်၊ ရဲရင့်ထူး၊ စံရတီမိုးမြင့်၊ သီရိရှင်းသန့်) တို့ပါဝင်သရုပ်ဆောင်ထားပြီး ဒါရိုက်တာ - မျိုးထူး (စိတ်ကူးရင်ခုန်သည်)"
+}
+,
+	 {
+"title" : " ပြိုင်ရဲရဲ့လား ",
+"gen" : "naytoe,maythannu,comedy,romance",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-f2jGaHeQMXA/XzPX-_pbv2I/AAAAAAAAZMo/yHpkq-oa2n0OehTsHbWjxHqOmuf6_T2pQCLcBGAsYHQ/s5000/PyaingYeLong.jpg",
+"image" : "https://1.bp.blogspot.com/-Xdl5AzA03GU/XzPX-2yS1-I/AAAAAAAAZMk/dO2UcxofBB4kRPmetTRZ_X0nVzgMsDSawCLcBGAsYHQ/s300/PyaingYeSmall.jpg",
+"length" : "2:00:43",
+"qual" : "",
+"size" : "869 MB",
+"video" : " https://drive.google.com/file/d/13XcSUoSlT0DXGU7aNbTYdAwz7yfWTpmE/view",
+"vol" : " နေတိုး ၊ မေသန်းနု"
+}
+,{
+"title" : "ချစ်ခြင်းသီတဲ့လက်များ",
+"gen" : "naytoe,moehayko,chitthuwai,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-iA345OMnkDc/XzPXwLJAteI/AAAAAAAAZMY/f3Wr-UZOo2sc7hDrcKjpumUr5TVG0ho1wCLcBGAsYHQ/s2000/chitChinLong.jpg",
+"image" : "https://1.bp.blogspot.com/-kXD0fiGojL0/XzPXuUCrycI/AAAAAAAAZMA/Z-WoyEFu8cQo2D7oZ1nH-HgLqBY4egKQwCLcBGAsYHQ/s5000/ChitChinSmall.jpeg",
+"length" : "2:30:57",
+"qual" : "",
+"size" : "738 MB",
+"video" : "https://drive.google.com/file/d/1JrnLPP4xbU3XGyEeNCpNKqvePzYnUWBK/view",
+"vol" : "နေတိုး၊ မိုးဟေကို၊ ချစ်သုဝေ"
+}
+,
+{
+"title" : "CHESS",
+"gen" : "naytoe,drama,comedy,thetmommyint",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-I0SrzZIhy6M/XzPXuz9v59I/AAAAAAAAZMQ/xgAbAu8HVVI2TsDlG0RUN2bbkKOlDnp7wCLcBGAsYHQ/s5000/chessLong.jpg",
+"image" : "https://1.bp.blogspot.com/-eRF-xkcJ10I/XzPXvlXzLuI/AAAAAAAAZMU/AlcLvzNp0iQWtoyv1m_QovJoC143_9s_ACLcBGAsYHQ/s5000/chessSmall.jpeg",
+"length" : "1:37:00",
+"qual" : "",
+"size" : "431 MB",
+"video" : "https://drive.google.com/file/d/1UYXTTkzdJ0fKoHTR6zE0WD0kC46UJ8Ey/view",
+"vol" : "နေတိုး၊ သက်မွန်မြင့်"
+}
     ]
    ,
     "series" : [
