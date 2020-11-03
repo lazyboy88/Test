@@ -3,6 +3,10 @@
 	  "testtitle" : "Lee title",
 	  "home_genre" : [
 		  {
+			  "title" : "Comedy",
+			  "gen" : "comedy"
+		  },
+		  {
 			  "title" : "Nay Toe",
 			  "gen" : "naytoe"
 		  },
