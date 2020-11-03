@@ -1,6 +1,17 @@
 
   {
 	  "testtitle" : "Lee title",
+	  "home_genre" : [
+		  {
+			  "title" : "Nay Toe",
+			  "gen" : "naytoe"
+		  },
+		  {
+			  "title" : "Nay Min",
+			  "gen" : "naymin"
+		  }
+		  ],
+	  
 	  "movies" : [
 	  
 	      {
