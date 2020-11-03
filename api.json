@@ -32,7 +32,7 @@
 	"length" : "1hr 43min",
 	"qual" : "720p FullHD",
 	"size" : "952 MB",
-	"video" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
+	"link" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
 	"vol" : ""}
 	,
 	{
@@ -44,7 +44,7 @@
 	"length" : "2hr 10min",
 	"qual" : "1080p FullHD",
 	"size" : "2.0 GB",
-	"video" : "https://drive.google.com/file/d/18uIYPvwaeQ42s-ncQ3dfinOQ8v6_XZEs/view",
+	"link" : "https://drive.google.com/file/d/18uIYPvwaeQ42s-ncQ3dfinOQ8v6_XZEs/view",
 	"vol" : ""}
 		 ,
 	{
@@ -75,7 +75,8 @@
 		{
 		"title" : "Ads Slider",
 		"gen" : "web",
-		"cover" : "https://i.ytimg.com/vi/Rv5698yhg3s/maxresdefault.jpg"
+		"cover" : "https://i.ytimg.com/vi/Rv5698yhg3s/maxresdefault.jpg",
+		"link" : "https://github.com/XCProject19/Test/edit/master/api.json"
 	}
 		 ],
 	  
