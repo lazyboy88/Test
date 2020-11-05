@@ -1,6 +1,6 @@
 
   {
-	  "top1" : 1,
+	  "top1" : 7,
 	  "top2" : 4,
 	  "top3" : 2,
 	  
@@ -15,13 +15,13 @@
 		  },
 		  {
 			  "name" : "Pyay Ti Oo",
-			  "tag" : "pyaytioo",
+			  "tag" : "pyay",
 			  "logo" : "https://www.mmtimes.com/sites/mmtimes.com/files/media/pyay-ti-oo.jpg",
 			  "bio" : "Actor Nay Toe’s achievements has rightfully made him one of the most in-demand actors of Myanmar. His work in films made him a three-time Myanmar Academy Award winner. He is also  part of the Hninsi (Rose), a cultural dance troupe that shows current socio-economic situations through dance and  comedy. His troupe gave him a chance to perform to local audience and Myanmar migrants in other countries. In 2018, Nay Toe starred in the critically-acclaimed movie, Mee, that was shown abroad."
 		  },
 		  {
 			  "name" : "Mynt Myat",
-			  "tag" : "myitmyat",
+			  "tag" : "myintmyat",
 			  "logo" : "https://www.popularmyanmar.com/wp-content/uploads/2018/07/Myint-Myat-copy.jpg",
 			  "bio" : "Actor Nay Toe’s achievements has rightfully made him one of the most in-demand actors of Myanmar. His work in films made him a three-time Myanmar Academy Award winner. He is also  part of the Hninsi (Rose), a cultural dance troupe that shows current socio-economic situations through dance and  comedy. His troupe gave him a chance to perform to local audience and Myanmar migrants in other countries. In 2018, Nay Toe starred in the critically-acclaimed movie, Mee, that was shown abroad."
 		  },
@@ -54,19 +54,15 @@
 		  
 		  {
 			  "title" : "မြင့်မြတ်ဇာတ်ကားများ",
-			  "gen" : "myintmyat"
+			  "gen" : "all"
 		  },
 		  {
-			  "title" : "Comedy",
+			  "title" : "ကြမ်းမယ် ရမ်းမယ်",
+			  "gen" : "action"
+		  },
+		  {
+			  "title" : "ရယ်ကြမောကြပေါလောက",
 			  "gen" : "comedy"
-		  },
-		  {
-			  "title" : "Nay Toe",
-			  "gen" : "naytoe"
-		  },
-		  {
-			  "title" : "Nay Min",
-			  "gen" : "naymin"
 		  }
 		  ],
 	  
